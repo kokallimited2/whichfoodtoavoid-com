@@ -1,0 +1,117 @@
+{
+  "rotation": [
+    "air-fryers",
+    "blenders",
+    "knife-sets",
+    "slow-cookers",
+    "food-scales",
+    "meat-thermometers",
+    "food-storage",
+    "coffee-makers",
+    "toasters",
+    "stand-mixers"
+  ],
+  "last_index": -1,
+  "categories": {
+    "air-fryers": {
+      "name": "Air Fryers",
+      "icon": "\ud83c\udf5f",
+      "slug": "air-fryers",
+      "desc": "Healthy frying with little to no oil",
+      "affiliate_tag": "faiza0d2-21"
+    },
+    "blenders": {
+      "name": "Blenders & Smoothie Makers",
+      "icon": "\ud83e\udd64",
+      "slug": "blenders",
+      "desc": "Smoothies, soups, and sauces"
+    },
+    "knife-sets": {
+      "name": "Knife Sets",
+      "icon": "\ud83d\udd2a",
+      "slug": "knife-sets",
+      "desc": "Professional-grade kitchen knives"
+    },
+    "slow-cookers": {
+      "name": "Slow Cookers & Pressure Cookers",
+      "icon": "\ud83c\udf72",
+      "slug": "slow-cookers",
+      "desc": "Set it and forget it cooking"
+    },
+    "food-scales": {
+      "name": "Kitchen Scales",
+      "icon": "\u2696\ufe0f",
+      "slug": "food-scales",
+      "desc": "Precision weighing for perfect results"
+    },
+    "meat-thermometers": {
+      "name": "Meat Thermometers",
+      "icon": "\ud83c\udf21\ufe0f",
+      "slug": "meat-thermometers",
+      "desc": "Perfectly cooked meat every time"
+    },
+    "food-storage": {
+      "name": "Food Storage Containers",
+      "icon": "\ud83d\udce6",
+      "slug": "food-storage",
+      "desc": "Keep food fresh and organized"
+    },
+    "coffee-makers": {
+      "name": "Coffee Machines",
+      "icon": "\u2615",
+      "slug": "coffee-makers",
+      "desc": "Bean-to-cup, espresso, and filter"
+    },
+    "toasters": {
+      "name": "Toasters",
+      "icon": "\ud83c\udf5e",
+      "slug": "toasters",
+      "desc": "Perfect toast every morning"
+    },
+    "stand-mixers": {
+      "name": "Stand Mixers",
+      "icon": "\ud83e\udd63",
+      "slug": "stand-mixers",
+      "desc": "Bake like a pro"
+    }
+  },
+  "products": {
+    "air-fryers": [
+      {
+        "name": "Ninja Foodi Dual Zone Digital Air Fryer 7.6L AF300UK",
+        "price": "149.00",
+        "rating": "4.8",
+        "asin": "B08CN3G4N9",
+        "date_added": "25 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B08CN3G4N9?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi MAX Dual Zone Digital Air Fryer 9.5L AF400UK",
+        "price": "179.99",
+        "rating": "4.8",
+        "asin": "B09BZR9JFG",
+        "date_added": "25 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B09BZR9JFG?tag=faiza0d2-21"
+      }
+    ],
+    "blenders": [],
+    "knife-sets": [],
+    "slow-cookers": [],
+    "food-scales": [],
+    "meat-thermometers": [],
+    "food-storage": [],
+    "coffee-makers": [],
+    "toasters": [],
+    "stand-mixers": []
+  },
+  "comparisons": [
+    {
+      "category": "air-fryers",
+      "file": "comparison-air-fryers-2026-07-25.html",
+      "title": "Ninja Foodi Dual Zone 7.6L (AF300UK) vs Ninja Foodi MAX Dual Zone 9.5L (AF400UK): Which Should You Buy? (UK 2026)",
+      "date": "2026-07-25",
+      "product1": "Ninja Foodi Dual Zone Digital Air Fryer 7.6L AF300UK",
+      "product2": "Ninja Foodi MAX Dual Zone Digital Air Fryer 9.5L AF400UK"
+    }
+  ]
+}
