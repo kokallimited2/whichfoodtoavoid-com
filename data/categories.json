@@ -108,6 +108,22 @@
         "asin": "B0BLC2YT1Y",
         "date_added": "25 July 2026",
         "url": "https://www.amazon.co.uk/dp/B0BLC2YT1Y?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Air Fryer AF100UK, 3.8L, 4-in-1, Uses No Oil, Air Fry, Roast, Reheat, Dehydrate",
+        "price": "79.00",
+        "rating": "4.8",
+        "asin": "B07PBBW4XF",
+        "date_added": "27 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B07PBBW4XF?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi MAX Dual Zone Air Fryer AF400UK, 9.5L, 2 Drawers, 6-in-1",
+        "price": "163.93",
+        "rating": "4.8",
+        "asin": "B08CN3G4N9",
+        "date_added": "27 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B08CN3G4N9?tag=faiza0d2-21"
       }
     ],
     "blenders": [],
@@ -136,6 +152,14 @@
       "date": "2026-07-25",
       "product1": "Ninja Foodi MAX Dual Zone Digital Air Fryer, 2 Drawers, 9.5L, 6-in-1, AF400UK",
       "product2": "Tower T17127 Vortx 1400W 4L Digital Air Fryer, Black"
+    },
+    {
+      "category": "air-fryers",
+      "file": "comparison-air-fryers-2026-07-27.html",
+      "title": "Ninja AF100UK vs Ninja Foodi MAX AF400UK: Which Should You Buy? (UK 2026)",
+      "date": "2026-07-27",
+      "product1": "Ninja Air Fryer AF100UK, 3.8L, 4-in-1, Uses No Oil, Air Fry, Roast, Reheat, Dehydrate",
+      "product2": "Ninja Foodi MAX Dual Zone Air Fryer AF400UK, 9.5L, 2 Drawers, 6-in-1"
     }
   ]
 }
