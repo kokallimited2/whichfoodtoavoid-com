@@ -124,6 +124,22 @@
         "asin": "B08CN3G4N9",
         "date_added": "27 July 2026",
         "url": "https://www.amazon.co.uk/dp/B08CN3G4N9?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi MAX Dual Zone Air Fryer AF400UK, 9.5L, 6-in-1",
+        "price": "179.99",
+        "rating": "4.8",
+        "asin": "B09BZR9JFG",
+        "date_added": "28 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B09BZR9JFG?tag=faiza0d2-21"
+      },
+      {
+        "name": "Tower T17090 Vortx Manual Air Fryer, 5L, Black",
+        "price": "54.99",
+        "rating": "4.6",
+        "asin": "B0B94FC7HC",
+        "date_added": "28 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B0B94FC7HC?tag=faiza0d2-21"
       }
     ],
     "blenders": [],
@@ -160,6 +176,14 @@
       "date": "2026-07-27",
       "product1": "Ninja Air Fryer AF100UK, 3.8L, 4-in-1, Uses No Oil, Air Fry, Roast, Reheat, Dehydrate",
       "product2": "Ninja Foodi MAX Dual Zone Air Fryer AF400UK, 9.5L, 2 Drawers, 6-in-1"
+    },
+    {
+      "category": "air-fryers",
+      "file": "comparison-air-fryers-2026-07-28.html",
+      "title": "Ninja Foodi MAX Dual Zone AF400UK vs Tower T17090 Vortx: Which Should You Buy? (UK 2026)",
+      "date": "2026-07-28",
+      "product1": "Ninja Foodi MAX Dual Zone Air Fryer AF400UK, 9.5L, 6-in-1",
+      "product2": "Tower T17090 Vortx Manual Air Fryer, 5L, Black"
     }
   ]
 }
