@@ -140,6 +140,22 @@
         "asin": "B0B94FC7HC",
         "date_added": "28 July 2026",
         "url": "https://www.amazon.co.uk/dp/B0B94FC7HC?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi Dual Zone Digital Air Fryer, 2 Drawers, 7.6L (AF300UK)",
+        "price": "149.99",
+        "rating": "4.8",
+        "asin": "B08CN3G4N9",
+        "date_added": "28 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B08CN3G4N9?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi MAX Dual Zone Digital Air Fryer, 2 Drawers, 9.5L (AF400UK)",
+        "price": "179.99",
+        "rating": "4.8",
+        "asin": "B09BZR9JFG",
+        "date_added": "28 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B09BZR9JFG?tag=faiza0d2-21"
       }
     ],
     "blenders": [],
@@ -184,6 +200,14 @@
       "date": "2026-07-28",
       "product1": "Ninja Foodi MAX Dual Zone Air Fryer AF400UK, 9.5L, 6-in-1",
       "product2": "Tower T17090 Vortx Manual Air Fryer, 5L, Black"
+    },
+    {
+      "category": "air-fryers",
+      "file": "comparison-air-fryers-2026-07-28.html",
+      "title": "Ninja Foodi Dual Zone 7.6L (AF300UK) vs Ninja Foodi MAX Dual Zone 9.5L (AF400UK): Which Should You Buy? (UK 2026)",
+      "date": "2026-07-28",
+      "product1": "Ninja Foodi Dual Zone Digital Air Fryer, 2 Drawers, 7.6L (AF300UK)",
+      "product2": "Ninja Foodi MAX Dual Zone Digital Air Fryer, 2 Drawers, 9.5L (AF400UK)"
     }
   ]
 }
