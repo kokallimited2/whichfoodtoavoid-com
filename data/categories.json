@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": -1,
+  "last_index": 1,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -190,7 +190,24 @@
         "url": "https://www.amazon.co.uk/dp/B08C5MFR3Q?tag=faiza0d2-21"
       }
     ],
-    "blenders": [],
+    "blenders": [
+      {
+        "name": "Ninja Blender with Auto-iQ BN495UK (1000W, 2x 700ml Cups, Smoothie Maker)",
+        "price": "99.99",
+        "rating": "4.7",
+        "asin": "B088TT9PVL",
+        "date_added": "31 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B088TT9PVL?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja 2-in-1 Detect Power Blender Pro & Single Serve TB301UK (1200W)",
+        "price": "149.99",
+        "rating": "4.6",
+        "asin": "B0D8QQLR12",
+        "date_added": "31 July 2026",
+        "url": "https://www.amazon.co.uk/dp/B0D8QQLR12?tag=faiza0d2-21"
+      }
+    ],
     "knife-sets": [],
     "slow-cookers": [],
     "food-scales": [],
@@ -256,6 +273,14 @@
       "date": "2026-07-30",
       "product1": "Ninja Foodi MAX Dual Zone Digital Air Fryer, 2 Drawers, 9.5L, 6-in-1 (AF400UK)",
       "product2": "Ninja Air Fryer, 3.8L Single Zone, 4-in-1 (AF100UK)"
+    },
+    {
+      "category": "blenders",
+      "file": "comparison-blenders-2026-07-31.html",
+      "title": "Ninja BN495UK vs Ninja Detect TB301UK: Which Should You Buy? (UK 2026)",
+      "date": "2026-07-31",
+      "product1": "Ninja Blender with Auto-iQ BN495UK (1000W, 2x 700ml Cups, Smoothie Maker)",
+      "product2": "Ninja 2-in-1 Detect Power Blender Pro & Single Serve TB301UK (1200W)"
     }
   ]
 }
