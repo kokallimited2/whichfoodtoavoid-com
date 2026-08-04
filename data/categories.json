@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 1,
+  "last_index": 2,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -208,7 +208,24 @@
         "url": "https://www.amazon.co.uk/dp/B0D8QQLR12?tag=faiza0d2-21"
       }
     ],
-    "knife-sets": [],
+    "knife-sets": [
+      {
+        "name": "Ninja Foodi StaySharp Knife Block with Integrated Sharpener, 5-Piece Set (K32005UK)",
+        "price": "119.99",
+        "rating": "4.7",
+        "asin": "B09JWLLX3T",
+        "date_added": "04 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B09JWLLX3T?tag=faiza0d2-21"
+      },
+      {
+        "name": "nuovva Professional Kitchen Knife Set \u2013 5pcs Grey Granite Non-Stick Blades",
+        "price": "16.99",
+        "rating": "4.5",
+        "asin": "B0BX6XKS1Z",
+        "date_added": "04 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0BX6XKS1Z?tag=faiza0d2-21"
+      }
+    ],
     "slow-cookers": [],
     "food-scales": [],
     "meat-thermometers": [],
@@ -281,6 +298,14 @@
       "date": "2026-07-31",
       "product1": "Ninja Blender with Auto-iQ BN495UK (1000W, 2x 700ml Cups, Smoothie Maker)",
       "product2": "Ninja 2-in-1 Detect Power Blender Pro & Single Serve TB301UK (1200W)"
+    },
+    {
+      "category": "knife-sets",
+      "file": "comparison-knife-sets-2026-08-04.html",
+      "title": "Ninja Foodi StaySharp Knife Block vs nuovva Granite Knife Set: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-04",
+      "product1": "Ninja Foodi StaySharp Knife Block with Integrated Sharpener, 5-Piece Set (K32005UK)",
+      "product2": "nuovva Professional Kitchen Knife Set \u2013 5pcs Grey Granite Non-Stick Blades"
     }
   ]
 }
