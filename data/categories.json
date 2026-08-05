@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 2,
+  "last_index": 3,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -226,7 +226,24 @@
         "url": "https://www.amazon.co.uk/dp/B0BX6XKS1Z?tag=faiza0d2-21"
       }
     ],
-    "slow-cookers": [],
+    "slow-cookers": [
+      {
+        "name": "Ninja Foodi PossibleCooker 8-in-1 Slow Cooker, 8L, Sea Salt Grey (MC1001UK)",
+        "price": "137.49",
+        "rating": "4.8",
+        "asin": "B0CFYMZF81",
+        "date_added": "05 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0CFYMZF81?tag=faiza0d2-21"
+      },
+      {
+        "name": "Crockpot DuraCeramic Digital Saute Slow Cooker with Hob-Safe Pot, 5L (CSC026)",
+        "price": "29.99",
+        "rating": "4.6",
+        "asin": "B01JP4409I",
+        "date_added": "05 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B01JP4409I?tag=faiza0d2-21"
+      }
+    ],
     "food-scales": [],
     "meat-thermometers": [],
     "food-storage": [],
@@ -306,6 +323,14 @@
       "date": "2026-08-04",
       "product1": "Ninja Foodi StaySharp Knife Block with Integrated Sharpener, 5-Piece Set (K32005UK)",
       "product2": "nuovva Professional Kitchen Knife Set \u2013 5pcs Grey Granite Non-Stick Blades"
+    },
+    {
+      "category": "slow-cookers",
+      "file": "comparison-slow-cookers-2026-08-05.html",
+      "title": "Ninja Foodi PossibleCooker 8-in-1 (MC1001UK) vs Crockpot DuraCeramic Digital Saute (CSC026): Which Should You Buy? (UK 2026)",
+      "date": "2026-08-05",
+      "product1": "Ninja Foodi PossibleCooker 8-in-1 Slow Cooker, 8L, Sea Salt Grey (MC1001UK)",
+      "product2": "Crockpot DuraCeramic Digital Saute Slow Cooker with Hob-Safe Pot, 5L (CSC026)"
     }
   ]
 }
