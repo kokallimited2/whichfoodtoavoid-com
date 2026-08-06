@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 3,
+  "last_index": 4,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -244,7 +244,24 @@
         "url": "https://www.amazon.co.uk/dp/B01JP4409I?tag=faiza0d2-21"
       }
     ],
-    "food-scales": [],
+    "food-scales": [
+      {
+        "name": "Salter 1036 BKSSDR Digital Kitchen Scale - 5KG Capacity, Stainless Steel Platform, Tare Function",
+        "price": "15.00",
+        "rating": "4.6",
+        "asin": "B000ZNM51O",
+        "date_added": "06 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B000ZNM51O?tag=faiza0d2-21"
+      },
+      {
+        "name": "Salter Arc Digital Kitchen Scales - Electronic Food Weighing, 3kg Capacity, Slim Design, Add & Weigh",
+        "price": "13.99",
+        "rating": "4.6",
+        "asin": "B00140VYEG",
+        "date_added": "06 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B00140VYEG?tag=faiza0d2-21"
+      }
+    ],
     "meat-thermometers": [],
     "food-storage": [],
     "coffee-makers": [],
@@ -331,6 +348,14 @@
       "date": "2026-08-05",
       "product1": "Ninja Foodi PossibleCooker 8-in-1 Slow Cooker, 8L, Sea Salt Grey (MC1001UK)",
       "product2": "Crockpot DuraCeramic Digital Saute Slow Cooker with Hob-Safe Pot, 5L (CSC026)"
+    },
+    {
+      "category": "food-scales",
+      "file": "comparison-food-scales-2026-08-06.html",
+      "title": "Salter 1036 vs Salter Arc: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-06",
+      "product1": "Salter 1036 BKSSDR Digital Kitchen Scale - 5KG Capacity, Stainless Steel Platform, Tare Function",
+      "product2": "Salter Arc Digital Kitchen Scales - Electronic Food Weighing, 3kg Capacity, Slim Design, Add & Weigh"
     }
   ]
 }
