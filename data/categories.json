@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 4,
+  "last_index": 5,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -262,7 +262,24 @@
         "url": "https://www.amazon.co.uk/dp/B00140VYEG?tag=faiza0d2-21"
       }
     ],
-    "meat-thermometers": [],
+    "meat-thermometers": [
+      {
+        "name": "ThermoPro TP19H Digital Meat Thermometer (Waterproof, Ambidextrous Backlit, Instant Read)",
+        "price": "11.99",
+        "rating": "4.5",
+        "asin": "B0CRZ5V6SF",
+        "date_added": "07 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0CRZ5V6SF?tag=faiza0d2-21"
+      },
+      {
+        "name": "MEATER SE Smart Bluetooth Wireless Meat Thermometer",
+        "price": "79.00",
+        "rating": "4.4",
+        "asin": "B0D2LQGJ2V",
+        "date_added": "07 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0D2LQGJ2V?tag=faiza0d2-21"
+      }
+    ],
     "food-storage": [],
     "coffee-makers": [],
     "toasters": [],
@@ -356,6 +373,14 @@
       "date": "2026-08-06",
       "product1": "Salter 1036 BKSSDR Digital Kitchen Scale - 5KG Capacity, Stainless Steel Platform, Tare Function",
       "product2": "Salter Arc Digital Kitchen Scales - Electronic Food Weighing, 3kg Capacity, Slim Design, Add & Weigh"
+    },
+    {
+      "category": "meat-thermometers",
+      "file": "comparison-meat-thermometers-2026-08-07.html",
+      "title": "ThermoPro TP19H vs MEATER SE: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-07",
+      "product1": "ThermoPro TP19H Digital Meat Thermometer (Waterproof, Ambidextrous Backlit, Instant Read)",
+      "product2": "MEATER SE Smart Bluetooth Wireless Meat Thermometer"
     }
   ]
 }
