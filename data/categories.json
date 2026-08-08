@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 5,
+  "last_index": 6,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -280,7 +280,24 @@
         "url": "https://www.amazon.co.uk/dp/B0D2LQGJ2V?tag=faiza0d2-21"
       }
     ],
-    "food-storage": [],
+    "food-storage": [
+      {
+        "name": "Chef's Path Airtight Food Storage Container Set - 24 Piece, BPA-Free Plastic Canisters with Lids for Cereal, Flour & Sugar",
+        "price": "26.99",
+        "rating": "4.7",
+        "asin": "B0822JNHFY",
+        "date_added": "08 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0822JNHFY?tag=faiza0d2-21"
+      },
+      {
+        "name": "Vtopmart Set of 24 Airtight Food Storage Containers, BPA-Free Plastic Containers for Flour, Sugar and Baking Supplies (Black)",
+        "price": "29.99",
+        "rating": "4.6",
+        "asin": "B0967WM727",
+        "date_added": "08 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0967WM727?tag=faiza0d2-21"
+      }
+    ],
     "coffee-makers": [],
     "toasters": [],
     "stand-mixers": []
@@ -381,6 +398,14 @@
       "date": "2026-08-07",
       "product1": "ThermoPro TP19H Digital Meat Thermometer (Waterproof, Ambidextrous Backlit, Instant Read)",
       "product2": "MEATER SE Smart Bluetooth Wireless Meat Thermometer"
+    },
+    {
+      "category": "food-storage",
+      "file": "comparison-food-storage-2026-08-08.html",
+      "title": "Chef's Path 24-Piece vs Vtopmart 24-Piece: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-08",
+      "product1": "Chef's Path Airtight Food Storage Container Set - 24 Piece, BPA-Free Plastic Canisters with Lids for Cereal, Flour & Sugar",
+      "product2": "Vtopmart Set of 24 Airtight Food Storage Containers, BPA-Free Plastic Containers for Flour, Sugar and Baking Supplies (Black)"
     }
   ]
 }
