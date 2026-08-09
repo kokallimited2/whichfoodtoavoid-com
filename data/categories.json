@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 6,
+  "last_index": 7,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -298,7 +298,24 @@
         "url": "https://www.amazon.co.uk/dp/B0967WM727?tag=faiza0d2-21"
       }
     ],
-    "coffee-makers": [],
+    "coffee-makers": [
+      {
+        "name": "De'Longhi Magnifica S, Automatic Bean to Cup Coffee Machine, Espresso and Cappuccino Maker, ECAM22.110.B, Black",
+        "price": "279.99",
+        "rating": "4.6",
+        "asin": "B00400OMU0",
+        "date_added": "09 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B00400OMU0?tag=faiza0d2-21"
+      },
+      {
+        "name": "TASSIMO by Bosch Vivy 2 TAS1402GB Coffee Machine, 1300 Watt, 0.7 Litre, Black",
+        "price": "44.99",
+        "rating": "4.6",
+        "asin": "B071FTHR5P",
+        "date_added": "09 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B071FTHR5P?tag=faiza0d2-21"
+      }
+    ],
     "toasters": [],
     "stand-mixers": []
   },
@@ -406,6 +423,14 @@
       "date": "2026-08-08",
       "product1": "Chef's Path Airtight Food Storage Container Set - 24 Piece, BPA-Free Plastic Canisters with Lids for Cereal, Flour & Sugar",
       "product2": "Vtopmart Set of 24 Airtight Food Storage Containers, BPA-Free Plastic Containers for Flour, Sugar and Baking Supplies (Black)"
+    },
+    {
+      "category": "coffee-makers",
+      "file": "comparison-coffee-makers-2026-08-09.html",
+      "title": "De'Longhi Magnifica S vs TASSIMO Vivy 2: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-09",
+      "product1": "De'Longhi Magnifica S, Automatic Bean to Cup Coffee Machine, Espresso and Cappuccino Maker, ECAM22.110.B, Black",
+      "product2": "TASSIMO by Bosch Vivy 2 TAS1402GB Coffee Machine, 1300 Watt, 0.7 Litre, Black"
     }
   ]
 }
