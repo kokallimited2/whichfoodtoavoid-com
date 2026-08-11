@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 8,
+  "last_index": 0,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -188,6 +188,14 @@
         "asin": "B08C5MFR3Q",
         "date_added": "30 July 2026",
         "url": "https://www.amazon.co.uk/dp/B08C5MFR3Q?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi Dual Zone Digital Air Fryer, 2 Drawers, 7.6L, 4-in-1, AF200UK",
+        "price": "179.00",
+        "rating": "4.7",
+        "asin": "B0DSG9WYG3",
+        "date_added": "11 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0DSG9WYG3?tag=faiza0d2-21"
       }
     ],
     "blenders": [
@@ -456,6 +464,14 @@
       "date": "2026-08-10",
       "product1": "Russell Hobbs Inspire 4 Slice Toaster (Extra Wide Slots, High Lift, 6 Browning Levels, 1800W, Black) 24381",
       "product2": "Morphy Richards Equip 2 Slice Toaster (Defrost and Reheat, Variable Wide Slots, 800W, Cream) 222065"
+    },
+    {
+      "category": "air-fryers",
+      "file": "comparison-air-fryers-2026-08-11.html",
+      "title": "Ninja AF400UK vs AF200UK: Which Dual Zone Air Fryer Should You Buy? (UK 2026)",
+      "date": "2026-08-11",
+      "product1": "Ninja Foodi MAX Dual Zone Digital Air Fryer, 2 Drawers, 9.5L, 6-in-1, AF400UK",
+      "product2": "Ninja Foodi Dual Zone Digital Air Fryer, 2 Drawers, 7.6L, 4-in-1, AF200UK"
     }
   ]
 }
