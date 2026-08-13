@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 0,
+  "last_index": 2,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -232,6 +232,22 @@
         "asin": "B0BX6XKS1Z",
         "date_added": "04 August 2026",
         "url": "https://www.amazon.co.uk/dp/B0BX6XKS1Z?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi StaySharp Knife Block K32006UK - 6-Piece Set with Integrated Sharpener, Stainless Steel",
+        "price": "179.99",
+        "rating": "4.6",
+        "asin": "B09WYZ4CNS",
+        "date_added": "13 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B09WYZ4CNS?tag=faiza0d2-21"
+      },
+      {
+        "name": "D.Perlla Knife Set with Block, 15 Pieces with Built-in Sharpener, High Grade Stainless Steel Kitchen Knife Set",
+        "price": "34.99",
+        "rating": "4.5",
+        "asin": "B0C69C5HGP",
+        "date_added": "13 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0C69C5HGP?tag=faiza0d2-21"
       }
     ],
     "slow-cookers": [
@@ -472,6 +488,14 @@
       "date": "2026-08-11",
       "product1": "Ninja Foodi MAX Dual Zone Digital Air Fryer, 2 Drawers, 9.5L, 6-in-1, AF400UK",
       "product2": "Ninja Foodi Dual Zone Digital Air Fryer, 2 Drawers, 7.6L, 4-in-1, AF200UK"
+    },
+    {
+      "category": "knife-sets",
+      "file": "comparison-knife-sets-2026-08-13.html",
+      "title": "Ninja Foodi StaySharp K32006UK vs D.Perlla 15-Piece: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-13",
+      "product1": "Ninja Foodi StaySharp Knife Block K32006UK - 6-Piece Set with Integrated Sharpener, Stainless Steel",
+      "product2": "D.Perlla Knife Set with Block, 15 Pieces with Built-in Sharpener, High Grade Stainless Steel Kitchen Knife Set"
     }
   ]
 }
