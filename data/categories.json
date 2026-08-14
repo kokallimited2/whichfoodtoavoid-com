@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 3,
+  "last_index": 4,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -300,6 +300,22 @@
         "asin": "B00140VYEG",
         "date_added": "06 August 2026",
         "url": "https://www.amazon.co.uk/dp/B00140VYEG?tag=faiza0d2-21"
+      },
+      {
+        "name": "ACCUWEIGHT 201 Digital Kitchen Scales with Tempered Glass Platform",
+        "price": "7.99",
+        "rating": "4.5",
+        "asin": "B07KC3HPVN",
+        "date_added": "14 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B07KC3HPVN?tag=faiza0d2-21"
+      },
+      {
+        "name": "Amazon Basics Digital Kitchen Scales with LCD Display",
+        "price": "6.59",
+        "rating": "4.6",
+        "asin": "B06X9NQ8GX",
+        "date_added": "14 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B06X9NQ8GX?tag=faiza0d2-21"
       }
     ],
     "meat-thermometers": [
@@ -520,6 +536,14 @@
       "date": "2026-08-14",
       "product1": "Instant Pot Duo 7-in-1 Electric Multi-Cooker 5.7L",
       "product2": "Ninja Foodi 9-in-1 Multi Cooker OP350UK 6L"
+    },
+    {
+      "category": "food-scales",
+      "file": "comparison-food-scales-2026-08-14.html",
+      "title": "ACCUWEIGHT 201 vs Amazon Basics Digital Kitchen Scales: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-14",
+      "product1": "ACCUWEIGHT 201 Digital Kitchen Scales with Tempered Glass Platform",
+      "product2": "Amazon Basics Digital Kitchen Scales with LCD Display"
     }
   ]
 }
