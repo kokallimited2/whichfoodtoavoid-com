@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 4,
+  "last_index": 5,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -334,6 +334,22 @@
         "asin": "B0D2LQGJ2V",
         "date_added": "07 August 2026",
         "url": "https://www.amazon.co.uk/dp/B0D2LQGJ2V?tag=faiza0d2-21"
+      },
+      {
+        "name": "ThermoPro TP03H Digital Meat Thermometer",
+        "price": "8.81",
+        "rating": "4.6",
+        "asin": "B08TC8W69J",
+        "date_added": "14 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B08TC8W69J?tag=faiza0d2-21"
+      },
+      {
+        "name": "DOQAUS Meat Thermometer 3s Instant Read Food Thermometer",
+        "price": "6.99",
+        "rating": "4.5",
+        "asin": "B0C28P61M1",
+        "date_added": "14 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0C28P61M1?tag=faiza0d2-21"
       }
     ],
     "food-storage": [
@@ -544,6 +560,14 @@
       "date": "2026-08-14",
       "product1": "ACCUWEIGHT 201 Digital Kitchen Scales with Tempered Glass Platform",
       "product2": "Amazon Basics Digital Kitchen Scales with LCD Display"
+    },
+    {
+      "category": "meat-thermometers",
+      "file": "comparison-meat-thermometers-2026-08-14.html",
+      "title": "ThermoPro TP03H vs DOQAUS 3s Instant Read: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-14",
+      "product1": "ThermoPro TP03H Digital Meat Thermometer",
+      "product2": "DOQAUS Meat Thermometer 3s Instant Read Food Thermometer"
     }
   ]
 }
