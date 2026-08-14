@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 2,
+  "last_index": 3,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -266,6 +266,22 @@
         "asin": "B01JP4409I",
         "date_added": "05 August 2026",
         "url": "https://www.amazon.co.uk/dp/B01JP4409I?tag=faiza0d2-21"
+      },
+      {
+        "name": "Instant Pot Duo 7-in-1 Electric Multi-Cooker 5.7L",
+        "price": "78.62",
+        "rating": "4.7",
+        "asin": "B00OP26T4K",
+        "date_added": "14 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B00OP26T4K?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi 9-in-1 Multi Cooker OP350UK 6L",
+        "price": "189.99",
+        "rating": "4.5",
+        "asin": "B08JCKBT5G",
+        "date_added": "14 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B08JCKBT5G?tag=faiza0d2-21"
       }
     ],
     "food-scales": [
@@ -496,6 +512,14 @@
       "date": "2026-08-13",
       "product1": "Ninja Foodi StaySharp Knife Block K32006UK - 6-Piece Set with Integrated Sharpener, Stainless Steel",
       "product2": "D.Perlla Knife Set with Block, 15 Pieces with Built-in Sharpener, High Grade Stainless Steel Kitchen Knife Set"
+    },
+    {
+      "category": "slow-cookers",
+      "file": "comparison-slow-cookers-2026-08-14.html",
+      "title": "Instant Pot Duo 7-in-1 vs Ninja Foodi 9-in-1 OP350UK: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-14",
+      "product1": "Instant Pot Duo 7-in-1 Electric Multi-Cooker 5.7L",
+      "product2": "Ninja Foodi 9-in-1 Multi Cooker OP350UK 6L"
     }
   ]
 }
