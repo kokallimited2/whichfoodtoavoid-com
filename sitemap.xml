@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://whichfoodtoavoid.com/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/guides/diabetes.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/guides/thyroid.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/guides/acne.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/guides/gerd.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/guides/ibs.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/guides/cholesterol.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/categories/air-fryers.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/categories/blenders.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/categories/knife-sets.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/categories/slow-cookers.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/categories/food-scales.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/categories/meat-thermometers.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/categories/food-storage.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/categories/coffee-makers.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/categories/toasters.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/categories/food-scales.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/categories/food-storage.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/categories/knife-sets.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/categories/meat-thermometers.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/categories/slow-cookers.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/categories/stand-mixers.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-air-fryers-2026-07-25.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/categories/toasters.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-air-fryers-2026-07-25.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-air-fryers-2026-07-27.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-air-fryers-2026-07-28.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-air-fryers-2026-07-28.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-air-fryers-2026-07-29.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-air-fryers-2026-07-30.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-blenders-2026-07-31.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-knife-sets-2026-08-04.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-slow-cookers-2026-08-05.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-food-scales-2026-08-06.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-meat-thermometers-2026-08-07.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-food-storage-2026-08-08.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-coffee-makers-2026-08-09.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-toasters-2026-08-10.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-air-fryers-2026-08-11.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-knife-sets-2026-08-13.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-slow-cookers-2026-08-14.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-blenders-2026-07-31.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-coffee-makers-2026-08-09.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-food-scales-2026-08-06.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-food-scales-2026-08-14.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-meat-thermometers-2026-08-14.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-food-storage-2026-08-08.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-food-storage-2026-08-15.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-knife-sets-2026-08-04.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-knife-sets-2026-08-13.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-meat-thermometers-2026-08-07.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-meat-thermometers-2026-08-14.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-slow-cookers-2026-08-05.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-slow-cookers-2026-08-14.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://whichfoodtoavoid.com/comparisons/comparison-toasters-2026-08-10.html</loc><changefreq>weekly</changefreq></url>
 </urlset>
