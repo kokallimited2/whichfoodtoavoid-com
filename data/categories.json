@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 5,
+  "last_index": 6,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -368,6 +368,22 @@
         "asin": "B0967WM727",
         "date_added": "08 August 2026",
         "url": "https://www.amazon.co.uk/dp/B0967WM727?tag=faiza0d2-21"
+      },
+      {
+        "name": "Sistema KLIP IT PLUS Leakproof Food Storage Containers (1L, 4-Count)",
+        "price": "16.55",
+        "rating": "4.4",
+        "asin": "B0CY6FG363",
+        "date_added": "15 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0CY6FG363?tag=faiza0d2-21"
+      },
+      {
+        "name": "OXO Good Grips POP Container - Rectangle Short 1.6L",
+        "price": "8.75",
+        "rating": "9.1",
+        "asin": "B077VM684H",
+        "date_added": "15 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B077VM684H?tag=faiza0d2-21"
       }
     ],
     "coffee-makers": [
@@ -568,6 +584,14 @@
       "date": "2026-08-14",
       "product1": "ThermoPro TP03H Digital Meat Thermometer",
       "product2": "DOQAUS Meat Thermometer 3s Instant Read Food Thermometer"
+    },
+    {
+      "category": "food-storage",
+      "file": "comparison-food-storage-2026-08-15.html",
+      "title": "Sistema KLIP IT PLUS vs OXO Good Grips POP Container: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-15",
+      "product1": "Sistema KLIP IT PLUS Leakproof Food Storage Containers (1L, 4-Count)",
+      "product2": "OXO Good Grips POP Container - Rectangle Short 1.6L"
     }
   ]
 }
