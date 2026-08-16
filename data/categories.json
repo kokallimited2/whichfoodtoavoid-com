@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 6,
+  "last_index": 7,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -402,6 +402,22 @@
         "asin": "B071FTHR5P",
         "date_added": "09 August 2026",
         "url": "https://www.amazon.co.uk/dp/B071FTHR5P?tag=faiza0d2-21"
+      },
+      {
+        "name": "Philips L'OR Barista Sublime Pod Coffee Machine",
+        "price": "59.99",
+        "rating": "4.5",
+        "asin": "B0B3RP5HS8",
+        "date_added": "16 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B0B3RP5HS8?tag=faiza0d2-21"
+      },
+      {
+        "name": "Tassimo by Bosch Suny Special Edition Pod Coffee Machine",
+        "price": "29.99",
+        "rating": "4.5",
+        "asin": "B08PN6KXH6",
+        "date_added": "16 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B08PN6KXH6?tag=faiza0d2-21"
       }
     ],
     "toasters": [
@@ -592,6 +608,14 @@
       "date": "2026-08-15",
       "product1": "Sistema KLIP IT PLUS Leakproof Food Storage Containers (1L, 4-Count)",
       "product2": "OXO Good Grips POP Container - Rectangle Short 1.6L"
+    },
+    {
+      "category": "coffee-makers",
+      "file": "comparison-coffee-makers-2026-08-16.html",
+      "title": "Philips L'OR Barista Sublime vs Tassimo by Bosch Suny Special Edition: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-16",
+      "product1": "Philips L'OR Barista Sublime Pod Coffee Machine",
+      "product2": "Tassimo by Bosch Suny Special Edition Pod Coffee Machine"
     }
   ]
 }
