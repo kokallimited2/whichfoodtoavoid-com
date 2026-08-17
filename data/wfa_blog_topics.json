@@ -1,10 +1,15 @@
 {
-  "last_index": 0,
+  "last_index": 1,
   "posts": [
     {
       "slug": "hidden-sugar-uk-foods",
       "title": "Hidden Sugar in UK Foods: Where It Lurks and How to Spot It on Labels",
       "date": "15 August 2026"
+    },
+    {
+      "slug": "ultra-processed-foods-uk-what-they-are-and-easy-swaps",
+      "title": "Ultra-Processed Foods UK: What They Are, Why They Matter, and 6 Easy Swaps",
+      "date": "17 August 2026"
     }
   ]
 }
