@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 7,
+  "last_index": 8,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -436,6 +436,22 @@
         "asin": "B08LHGXCFZ",
         "date_added": "10 August 2026",
         "url": "https://www.amazon.co.uk/dp/B08LHGXCFZ?tag=faiza0d2-21"
+      },
+      {
+        "name": "Russell Hobbs Inspire 4 Slice Toaster",
+        "price": "36.00",
+        "rating": "4.7",
+        "asin": "B07F8BPKFM",
+        "date_added": "17 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B07F8BPKFM?tag=faiza0d2-21"
+      },
+      {
+        "name": "Tefal Loft 4-Slice Toaster",
+        "price": "39.99",
+        "rating": "4.6",
+        "asin": "B08BPS5Z37",
+        "date_added": "17 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B08BPS5Z37?tag=faiza0d2-21"
       }
     ],
     "stand-mixers": []
@@ -616,6 +632,14 @@
       "date": "2026-08-16",
       "product1": "Philips L'OR Barista Sublime Pod Coffee Machine",
       "product2": "Tassimo by Bosch Suny Special Edition Pod Coffee Machine"
+    },
+    {
+      "category": "toasters",
+      "file": "comparison-toasters-2026-08-17.html",
+      "title": "Russell Hobbs Inspire 4 Slice vs Tefal Loft 4-Slice Toaster: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-17",
+      "product1": "Russell Hobbs Inspire 4 Slice Toaster",
+      "product2": "Tefal Loft 4-Slice Toaster"
     }
   ]
 }
