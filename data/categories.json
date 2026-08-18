@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 8,
+  "last_index": 9,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -454,7 +454,24 @@
         "url": "https://www.amazon.co.uk/dp/B08BPS5Z37?tag=faiza0d2-21"
       }
     ],
-    "stand-mixers": []
+    "stand-mixers": [
+      {
+        "name": "KitchenAid Artisan Stand Mixer 5KSM125",
+        "price": "366.90",
+        "rating": "4.6",
+        "asin": "B01HKZZ4XU",
+        "date_added": "18 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B01HKZZ4XU?tag=faiza0d2-21"
+      },
+      {
+        "name": "Aucma Stand Mixer 6.2L",
+        "price": "98.77",
+        "rating": "4.6",
+        "asin": "B07P6HFCTK",
+        "date_added": "18 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B07P6HFCTK?tag=faiza0d2-21"
+      }
+    ]
   },
   "comparisons": [
     {
@@ -640,6 +657,14 @@
       "date": "2026-08-17",
       "product1": "Russell Hobbs Inspire 4 Slice Toaster",
       "product2": "Tefal Loft 4-Slice Toaster"
+    },
+    {
+      "category": "stand-mixers",
+      "file": "comparison-stand-mixers-2026-08-18.html",
+      "title": "KitchenAid Artisan 5KSM125 vs Aucma 6.2L Stand Mixer: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-18",
+      "product1": "KitchenAid Artisan Stand Mixer 5KSM125",
+      "product2": "Aucma Stand Mixer 6.2L"
     }
   ]
 }
