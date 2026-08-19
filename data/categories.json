@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 9,
+  "last_index": 0,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -196,6 +196,22 @@
         "asin": "B0DSG9WYG3",
         "date_added": "11 August 2026",
         "url": "https://www.amazon.co.uk/dp/B0DSG9WYG3?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi Dual Zone Air Fryer AF300UK",
+        "price": "194.99",
+        "rating": "4.8",
+        "asin": "B08CN3G4N9",
+        "date_added": "19 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B08CN3G4N9?tag=faiza0d2-21"
+      },
+      {
+        "name": "Ninja Foodi Max Dual Zone Air Fryer AF400UK",
+        "price": "165.00",
+        "rating": "4.9",
+        "asin": "B09BZR9JFG",
+        "date_added": "19 August 2026",
+        "url": "https://www.amazon.co.uk/dp/B09BZR9JFG?tag=faiza0d2-21"
       }
     ],
     "blenders": [
@@ -665,6 +681,14 @@
       "date": "2026-08-18",
       "product1": "KitchenAid Artisan Stand Mixer 5KSM125",
       "product2": "Aucma Stand Mixer 6.2L"
+    },
+    {
+      "category": "air-fryers",
+      "file": "comparison-air-fryers-2026-08-19.html",
+      "title": "Ninja Foodi Dual Zone AF300UK vs Ninja Foodi Max AF400UK: Which Should You Buy? (UK 2026)",
+      "date": "2026-08-19",
+      "product1": "Ninja Foodi Dual Zone Air Fryer AF300UK",
+      "product2": "Ninja Foodi Max Dual Zone Air Fryer AF400UK"
     }
   ]
 }
