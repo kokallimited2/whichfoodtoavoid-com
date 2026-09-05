@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 7,
+  "last_index": 1,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -230,6 +230,22 @@
         "asin": "B0D8QQLR12",
         "date_added": "31 July 2026",
         "url": "https://www.amazon.co.uk/dp/B0D8QQLR12?tag=faiza0d2-21"
+      },
+      {
+        "name": "Nutribullet Blender 600 Series in Graphite",
+        "price": "69.99",
+        "rating": "4.7",
+        "asin": "B01N27W15O",
+        "date_added": "05 September 2026",
+        "url": "https://go.kokal.co/amz-d767c1bc"
+      },
+      {
+        "name": "Ninja Foodi Power Nutri Blender 2-in-1 1100W Silver CB100UK",
+        "price": "98.00",
+        "rating": "4.8",
+        "asin": "B08RJVDD69",
+        "date_added": "05 September 2026",
+        "url": "https://go.kokal.co/amz-e1c91ea7"
       }
     ],
     "knife-sets": [
@@ -689,6 +705,14 @@
       "date": "2026-08-19",
       "product1": "Ninja Foodi Dual Zone Air Fryer AF300UK",
       "product2": "Ninja Foodi Max Dual Zone Air Fryer AF400UK"
+    },
+    {
+      "category": "blenders",
+      "file": "comparison-blenders-2026-09-05.html",
+      "title": "NutriBullet 600 Series vs Ninja Foodi CB100UK: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-05",
+      "product1": "Nutribullet Blender 600 Series in Graphite",
+      "product2": "Ninja Foodi Power Nutri Blender 2-in-1 1100W Silver CB100UK"
     }
   ]
 }
