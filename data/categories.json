@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 5,
+  "last_index": 8,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -484,6 +484,22 @@
         "asin": "B08BPS5Z37",
         "date_added": "17 August 2026",
         "url": "https://www.amazon.co.uk/dp/B08BPS5Z37?tag=faiza0d2-21"
+      },
+      {
+        "name": "Russell Hobbs Textures 4 Slice Toaster",
+        "price": "32.99",
+        "rating": "4.1",
+        "asin": "B01A84QTGG",
+        "date_added": "12 September 2026",
+        "url": "https://go.kokal.co/amz-597b6171"
+      },
+      {
+        "name": "Sage Smart Toast 4-Slice Toaster",
+        "price": "159.95",
+        "rating": "4.4",
+        "asin": "B00CI32SBQ",
+        "date_added": "12 September 2026",
+        "url": "https://go.kokal.co/amz-3020eab1"
       }
     ],
     "stand-mixers": [
@@ -713,6 +729,14 @@
       "date": "2026-09-05",
       "product1": "Nutribullet Blender 600 Series in Graphite",
       "product2": "Ninja Foodi Power Nutri Blender 2-in-1 1100W Silver CB100UK"
+    },
+    {
+      "category": "toasters",
+      "file": "comparison-toasters-2026-09-12.html",
+      "title": "Russell Hobbs Textures 4 Slice vs Sage Smart Toast 4-Slice: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-12",
+      "product1": "Russell Hobbs Textures 4 Slice Toaster",
+      "product2": "Sage Smart Toast 4-Slice Toaster"
     }
   ]
 }
