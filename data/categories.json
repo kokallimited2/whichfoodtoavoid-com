@@ -738,5 +738,25 @@
       "product1": "Russell Hobbs Textures 4 Slice Toaster",
       "product2": "Sage Smart Toast 4-Slice Toaster"
     }
+  ],
+  "offers": [
+    {
+      "file": "leptozan-review.html",
+      "title": "Leptozan Review (UK 2026): Honest Look, Pricing & Who It's For",
+      "category": "Diets & Weight Loss",
+      "date": "2026-09-11",
+      "platform": "clickbank",
+      "vendor": "LEPTOZAN",
+      "link": "https://hop.clickbank.net/?affiliate=tanoli007&vendor=LEPTOZAN&tid=leptozan"
+    },
+    {
+      "file": "the-smoothie-diet-review.html",
+      "title": "The Smoothie Diet Review (UK 2026): Honest Look, Pricing & Who It's For",
+      "category": "Diets & Weight Loss",
+      "date": "2026-09-10",
+      "platform": "clickbank",
+      "vendor": "SMOOTHDIET",
+      "link": "https://hop.clickbank.net/?affiliate=tanoli007&vendor=SMOOTHDIET&tid=the-smoothie-diet"
+    }
   ]
 }
