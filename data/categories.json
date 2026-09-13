@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 8,
+  "last_index": 9,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -518,6 +518,22 @@
         "asin": "B07P6HFCTK",
         "date_added": "18 August 2026",
         "url": "https://www.amazon.co.uk/dp/B07P6HFCTK?tag=faiza0d2-21"
+      },
+      {
+        "name": "KitchenAid Artisan 5KSM125",
+        "price": "366.90",
+        "rating": "4.6",
+        "asin": "B07KFNGSYD",
+        "date_added": "13 September 2026",
+        "url": "https://go.kokal.co/amz-3291b139"
+      },
+      {
+        "name": "Kenwood kMix KMX750",
+        "price": "259.95",
+        "rating": "4.0",
+        "asin": "B084BQNSQX",
+        "date_added": "13 September 2026",
+        "url": "https://go.kokal.co/amz-34ec2390"
       }
     ]
   },
@@ -737,6 +753,14 @@
       "date": "2026-09-12",
       "product1": "Russell Hobbs Textures 4 Slice Toaster",
       "product2": "Sage Smart Toast 4-Slice Toaster"
+    },
+    {
+      "category": "stand-mixers",
+      "file": "comparison-stand-mixers-2026-09-13.html",
+      "title": "KitchenAid Artisan 5KSM125 vs Kenwood kMix KMX750: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-13",
+      "product1": "KitchenAid Artisan 5KSM125",
+      "product2": "Kenwood kMix KMX750"
     }
   ],
   "offers": [
