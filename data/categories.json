@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 0,
+  "last_index": 1,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -246,6 +246,22 @@
         "asin": "B08RJVDD69",
         "date_added": "05 September 2026",
         "url": "https://go.kokal.co/amz-e1c91ea7"
+      },
+      {
+        "name": "Ninja Professional Blender BL610",
+        "price": "66.73",
+        "rating": "4.6",
+        "asin": "B00NGV4506",
+        "date_added": "15 September 2026",
+        "url": "https://go.kokal.co/amz-bbfa5ee1"
+      },
+      {
+        "name": "Ninja Blast Portable Blender BC151NV (Denim Blue)",
+        "price": "51.86",
+        "rating": "4.5",
+        "asin": "B0C2FF74J6",
+        "date_added": "15 September 2026",
+        "url": "https://go.kokal.co/amz-38e91e21"
       }
     ],
     "knife-sets": [
@@ -761,6 +777,14 @@
       "date": "2026-09-13",
       "product1": "KitchenAid Artisan 5KSM125",
       "product2": "Kenwood kMix KMX750"
+    },
+    {
+      "category": "blenders",
+      "file": "comparison-blenders-2026-09-15.html",
+      "title": "Ninja Professional Blender BL610 vs Ninja Blast BC151: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-15",
+      "product1": "Ninja Professional Blender BL610",
+      "product2": "Ninja Blast Portable Blender BC151NV (Denim Blue)"
     }
   ],
   "offers": [
