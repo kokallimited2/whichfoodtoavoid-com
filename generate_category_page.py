@@ -113,7 +113,7 @@ def generate_category_page(category_slug, data=None):
     products = data['products'].get(category_slug, [])
     
     title = f"{cat_info['icon']} Best {cat_info['name']} - Which Food To Avoid"
-    description = f"Compare the best {cat_info['name'].lower()}. {cat_info['desc']} - unbiased reviews and comparisons with Amazon UK affiliate links."
+    description = f"Compare the best {cat_info['name'].lower()}. {cat_info['desc']} - unbiased reviews and comparisons with Amazon US affiliate links."
     
     html = SITE_HEAD.format(
         title=escape(title),
@@ -127,7 +127,7 @@ def generate_category_page(category_slug, data=None):
         html += f'<p style="color:var(--t2);font-size:0.9rem">No products listed yet. Check back soon for comparisons!</p>\n'
     else:
         html += f'<h2>{cat_info["icon"]} Best {escape(cat_info["name"])}</h2>\n'
-        html += f'<p style="color:var(--t2);font-size:0.85rem;margin-bottom:15px">Compare top-rated {escape(cat_info["name"].lower())} from Amazon UK. Prices and availability may change.</p>\n'
+        html += f'<p style="color:var(--t2);font-size:0.85rem;margin-bottom:15px">Compare top-rated {escape(cat_info["name"].lower())} from Amazon.com. Prices in USD and availability may change.</p>\n'
         
         # Check for existing comparison files
         comparisons_dir = os.path.join(BASE_DIR, 'comparisons')
