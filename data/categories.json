@@ -11,74 +11,74 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 1,
+  "last_index": 2,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
-      "icon": "🍟",
+      "icon": "\ud83c\udf5f",
       "slug": "air-fryers",
       "desc": "Healthy frying with little to no oil",
       "affiliate_tag": "faiza013-20"
     },
     "blenders": {
       "name": "Blenders & Smoothie Makers",
-      "icon": "🥤",
+      "icon": "\ud83e\udd64",
       "slug": "blenders",
       "desc": "Smoothies, soups, and sauces",
       "affiliate_tag": "faiza013-20"
     },
     "knife-sets": {
       "name": "Knife Sets",
-      "icon": "🔪",
+      "icon": "\ud83d\udd2a",
       "slug": "knife-sets",
       "desc": "Professional-grade kitchen knives",
       "affiliate_tag": "faiza013-20"
     },
     "slow-cookers": {
       "name": "Slow Cookers & Pressure Cookers",
-      "icon": "🍲",
+      "icon": "\ud83c\udf72",
       "slug": "slow-cookers",
       "desc": "Set it and forget it cooking",
       "affiliate_tag": "faiza013-20"
     },
     "food-scales": {
       "name": "Kitchen Scales",
-      "icon": "⚖️",
+      "icon": "\u2696\ufe0f",
       "slug": "food-scales",
       "desc": "Precision weighing for perfect results",
       "affiliate_tag": "faiza013-20"
     },
     "meat-thermometers": {
       "name": "Meat Thermometers",
-      "icon": "🌡️",
+      "icon": "\ud83c\udf21\ufe0f",
       "slug": "meat-thermometers",
       "desc": "Perfectly cooked meat every time",
       "affiliate_tag": "faiza013-20"
     },
     "food-storage": {
       "name": "Food Storage Containers",
-      "icon": "📦",
+      "icon": "\ud83d\udce6",
       "slug": "food-storage",
       "desc": "Keep food fresh and organized",
       "affiliate_tag": "faiza013-20"
     },
     "coffee-makers": {
       "name": "Coffee Machines",
-      "icon": "☕",
+      "icon": "\u2615",
       "slug": "coffee-makers",
       "desc": "Bean-to-cup, espresso, and filter",
       "affiliate_tag": "faiza013-20"
     },
     "toasters": {
       "name": "Toasters",
-      "icon": "🍞",
+      "icon": "\ud83c\udf5e",
       "slug": "toasters",
       "desc": "Perfect toast every morning",
       "affiliate_tag": "faiza013-20"
     },
     "stand-mixers": {
       "name": "Stand Mixers",
-      "icon": "🥣",
+      "icon": "\ud83e\udd63",
       "slug": "stand-mixers",
       "desc": "Bake like a pro",
       "affiliate_tag": "faiza013-20"
@@ -87,7 +87,7 @@
   "products": {
     "air-fryers": [
       {
-        "name": "Chefman Air Fryer – 4 QT Compact Airfryer for Quick & Easy Meals in Minutes, Features Hi-Fry Technology for Extra Crisp, T...",
+        "name": "Chefman Air Fryer \u2013 4 QT Compact Airfryer for Quick & Easy Meals in Minutes, Features Hi-Fry Technology for Extra Crisp, T...",
         "price": "$42.96",
         "rating": "4.6",
         "asin": "B0CNY1F31S",
@@ -103,7 +103,7 @@
         "url": "https://www.amazon.com/dp/B0GMHTYT6C?tag=faiza013-20"
       },
       {
-        "name": "Chefman Air Fryer – 6 QT Compact Airfryer for Quick & Easy Meals in Minutes, Features Hi-Fry Technology for Extra Crisp, T...",
+        "name": "Chefman Air Fryer \u2013 6 QT Compact Airfryer for Quick & Easy Meals in Minutes, Features Hi-Fry Technology for Extra Crisp, T...",
         "price": "$51.89",
         "rating": "4.6",
         "asin": "B0CNY1YVDD",
@@ -111,7 +111,7 @@
         "url": "https://www.amazon.com/dp/B0CNY1YVDD?tag=faiza013-20"
       },
       {
-        "name": "Cosori TurboBlaze Air Fryer, 9-in-1, 6 Qt, PFAS-Free Ceramic Coating | 90°–450°F, 5 Level Fan Speeds, 9 in 1 Air Fry, Roas...",
+        "name": "Cosori TurboBlaze Air Fryer, 9-in-1, 6 Qt, PFAS-Free Ceramic Coating | 90\u00b0\u2013450\u00b0F, 5 Level Fan Speeds, 9 in 1 Air Fry, Roas...",
         "price": "$74.17",
         "rating": "4.8",
         "asin": "B0C33CHG99",
@@ -127,7 +127,7 @@
         "url": "https://www.amazon.com/dp/B08R6KMBQT?tag=faiza013-20"
       },
       {
-        "name": "Chefman Air Fryer – 6 QT Compact Airfryer for Quick & Easy Meals, Features Hi-Fry Technology for Extra Crisp, Easy-View Wi...",
+        "name": "Chefman Air Fryer \u2013 6 QT Compact Airfryer for Quick & Easy Meals, Features Hi-Fry Technology for Extra Crisp, Easy-View Wi...",
         "price": "$55.63",
         "rating": "4.6",
         "asin": "B0D5FX6VRL",
@@ -135,7 +135,7 @@
         "url": "https://www.amazon.com/dp/B0D5FX6VRL?tag=faiza013-20"
       },
       {
-        "name": "Chefman Compact Air Fryer 3.5 QT - Slim Design Fits Small Kitchens, 4-in-1 Air Fry, Bake, Dehydrate, Frozen, 450°F Max Tem...",
+        "name": "Chefman Compact Air Fryer 3.5 QT - Slim Design Fits Small Kitchens, 4-in-1 Air Fry, Bake, Dehydrate, Frozen, 450\u00b0F Max Tem...",
         "price": "$37.04",
         "rating": "4.5",
         "asin": "B0GSCCXMR8",
@@ -143,7 +143,7 @@
         "url": "https://www.amazon.com/dp/B0GSCCXMR8?tag=faiza013-20"
       },
       {
-        "name": "Gourmia Air Fryer - 4 Qt Basket Capacity, 12 Cooking Presets, Black | Digital Display, Touch Controls, 90–400°F Adjustable...",
+        "name": "Gourmia Air Fryer - 4 Qt Basket Capacity, 12 Cooking Presets, Black | Digital Display, Touch Controls, 90\u2013400\u00b0F Adjustable...",
         "price": "$43.76",
         "rating": "4.6",
         "asin": "B0CH3XC7NP",
@@ -151,7 +151,7 @@
         "url": "https://www.amazon.com/dp/B0CH3XC7NP?tag=faiza013-20"
       },
       {
-        "name": "COMFEE' Compact 2.1-Quart Mini Air Fryer for Small Kitchens, Black | Compact size, knob control, perfect for 1–2 servings,...",
+        "name": "COMFEE' Compact 2.1-Quart Mini Air Fryer for Small Kitchens, Black | Compact size, knob control, perfect for 1\u20132 servings,...",
         "price": "$28.67",
         "rating": "4.6",
         "asin": "B0D86FNKDK",
@@ -175,7 +175,7 @@
         "url": "https://www.amazon.com/dp/B0F9B4YCZF?tag=faiza013-20"
       },
       {
-        "name": "bella Fits-Anywhere™ 6qt Slim Air Fryer, Non-Toxic Coating, Oatmilk",
+        "name": "bella Fits-Anywhere\u2122 6qt Slim Air Fryer, Non-Toxic Coating, Oatmilk",
         "price": "$49.37",
         "rating": "4.6",
         "asin": "B0DPNJKMPX",
@@ -339,7 +339,7 @@
         "url": "https://www.amazon.com/dp/B0DGG94JVV?tag=faiza013-20"
       },
       {
-        "name": "Pailexin Magnetic Knife Block Without Knives—Black, Stainless Steel, 12\" | Double-Sided Magnetic Knife Holder Stand with S...",
+        "name": "Pailexin Magnetic Knife Block Without Knives\u2014Black, Stainless Steel, 12\" | Double-Sided Magnetic Knife Holder Stand with S...",
         "price": "$28.18",
         "rating": "4.9",
         "asin": "B0F6LJWTVK",
@@ -363,7 +363,7 @@
         "url": "https://www.amazon.com/dp/B002ZRPWVS?tag=faiza013-20"
       },
       {
-        "name": "Dmore magnetic knife block without knives, 360° rotatable black magnet knife holder stand made of stainless steel, Extra L...",
+        "name": "Dmore magnetic knife block without knives, 360\u00b0 rotatable black magnet knife holder stand made of stainless steel, Extra L...",
         "price": "$28.18",
         "rating": "4.8",
         "asin": "B0FPCQJGGD",
@@ -377,6 +377,22 @@
         "asin": "B002ZRPWX6",
         "date_added": "15 September 2026",
         "url": "https://www.amazon.com/dp/B002ZRPWX6?tag=faiza013-20"
+      },
+      {
+        "name": "Astercook Knife Set, 13 Pieces",
+        "price": "19.99",
+        "rating": "4.8",
+        "asin": "B0D9B96TBX",
+        "date_added": "16 September 2026",
+        "url": "https://www.amazon.com/dp/B0D9B96TBX?tag=faiza013-20"
+      },
+      {
+        "name": "Cutluxe Kitchen Knife Set, 5-Piece Artisan Series",
+        "price": "79.99",
+        "rating": "4.8",
+        "asin": "B0CB6L31LZ",
+        "date_added": "16 September 2026",
+        "url": "https://www.amazon.com/dp/B0CB6L31LZ?tag=faiza013-20"
       }
     ],
     "slow-cookers": [
@@ -593,7 +609,7 @@
         "url": "https://www.amazon.com/dp/B0GVM8N2CK?tag=faiza013-20"
       },
       {
-        "name": "0.5 Sec Instant Read Meat Thermometer Digital for Outdoor Fryer, Black | ±0.5°F Precision, Auto Flip Digital LCD Display, ...",
+        "name": "0.5 Sec Instant Read Meat Thermometer Digital for Outdoor Fryer, Black | \u00b10.5\u00b0F Precision, Auto Flip Digital LCD Display, ...",
         "price": "$5.93",
         "rating": "4.8",
         "asin": "B0GY4DC9CX",
@@ -601,7 +617,7 @@
         "url": "https://www.amazon.com/dp/B0GY4DC9CX?tag=faiza013-20"
       },
       {
-        "name": "ThermoMaven 0.5 Sec Professional Meat Thermometer Digital, ±0.5°F Accuracy | NIST&NSF Certified, IP67 Waterproof, Auto-Rot...",
+        "name": "ThermoMaven 0.5 Sec Professional Meat Thermometer Digital, \u00b10.5\u00b0F Accuracy | NIST&NSF Certified, IP67 Waterproof, Auto-Rot...",
         "price": "$25.21",
         "rating": "4.7",
         "asin": "B0DNMTK56N",
@@ -609,7 +625,7 @@
         "url": "https://www.amazon.com/dp/B0DNMTK56N?tag=faiza013-20"
       },
       {
-        "name": "ThermoMaven 1 Sec Professional Digital Meat Thermometer, ±0.5℉ Accuracy | NIST&NSF Certified, Auto-Rotating LED Display, W...",
+        "name": "ThermoMaven 1 Sec Professional Digital Meat Thermometer, \u00b10.5\u2109 Accuracy | NIST&NSF Certified, Auto-Rotating LED Display, W...",
         "price": "$13.34",
         "rating": "4.6",
         "asin": "B0GL7Z4KP4",
@@ -617,7 +633,7 @@
         "url": "https://www.amazon.com/dp/B0GL7Z4KP4?tag=faiza013-20"
       },
       {
-        "name": "DOQAUS Meat Thermometer Digital – Instant Read Food Thermometer for Cooking | Backlight & Auto-Rotating Display, Temperatu...",
+        "name": "DOQAUS Meat Thermometer Digital \u2013 Instant Read Food Thermometer for Cooking | Backlight & Auto-Rotating Display, Temperatu...",
         "price": "$5.19",
         "rating": "4.5",
         "asin": "B0H2HK4B47",
@@ -665,7 +681,7 @@
         "url": "https://www.amazon.com/dp/B0HC2H739V?tag=faiza013-20"
       },
       {
-        "name": "ThermoMaven 1 Sec Professional Digital Meat Thermometer, ±0.5℉ Accuracy | NIST&NSF Certified Food Thermometer, Auto-Rotate...",
+        "name": "ThermoMaven 1 Sec Professional Digital Meat Thermometer, \u00b10.5\u2109 Accuracy | NIST&NSF Certified Food Thermometer, Auto-Rotate...",
         "price": "$17.05",
         "rating": "4.6",
         "asin": "B0DHZTCNR5",
@@ -903,7 +919,7 @@
         "url": "https://www.amazon.com/dp/B08CW95ZFR?tag=faiza013-20"
       },
       {
-        "name": "Proctor Silex 4 Slice Countertop Toaster Oven | Bake, Broil, Toast | 200-450⁰F Adjustable Temp | 30 Minute Timer | Automat...",
+        "name": "Proctor Silex 4 Slice Countertop Toaster Oven | Bake, Broil, Toast | 200-450\u2070F Adjustable Temp | 30 Minute Timer | Automat...",
         "price": "$37.05",
         "rating": "4.2",
         "asin": "B08V215VFP",
@@ -1025,7 +1041,7 @@
         "url": "https://www.amazon.com/dp/B07DD385JN?tag=faiza013-20"
       },
       {
-        "name": "Betty Crocker 7-Speed Power-Up™ Hand Mixer with Stand, BC-4208S, Silver | 300 Watt Electric Mixer with Beaters and Dough H...",
+        "name": "Betty Crocker 7-Speed Power-Up\u2122 Hand Mixer with Stand, BC-4208S, Silver | 300 Watt Electric Mixer with Beaters and Dough H...",
         "price": "$29.99",
         "rating": "4.6",
         "asin": "B0CJTVX6SL",
@@ -1121,7 +1137,7 @@
       "title": "Ninja Foodi StaySharp Knife Block vs nuovva Granite Knife Set: Which Should You Buy? (UK 2026)",
       "date": "2026-08-04",
       "product1": "Ninja Foodi StaySharp Knife Block with Integrated Sharpener, 5-Piece Set (K32005UK)",
-      "product2": "nuovva Professional Kitchen Knife Set – 5pcs Grey Granite Non-Stick Blades"
+      "product2": "nuovva Professional Kitchen Knife Set \u2013 5pcs Grey Granite Non-Stick Blades"
     },
     {
       "category": "slow-cookers",
@@ -1282,6 +1298,14 @@
       "date": "2026-09-15",
       "product1": "Ninja Professional Blender BL610",
       "product2": "Ninja Blast Portable Blender BC151NV (Denim Blue)"
+    },
+    {
+      "category": "knife-sets",
+      "file": "comparison-knife-sets-2026-09-16.html",
+      "title": "Astercook 13-Piece vs Cutluxe Artisan 5-Piece: Which Knife Set Should You Buy? (UK 2026)",
+      "date": "2026-09-16",
+      "product1": "Astercook Knife Set, 13 Pieces",
+      "product2": "Cutluxe Kitchen Knife Set, 5-Piece Artisan Series"
     }
   ],
   "offers": [
