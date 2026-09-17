@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 2,
+  "last_index": 3,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -491,6 +491,22 @@
         "asin": "B0GYSYSDJ9",
         "date_added": "15 September 2026",
         "url": "https://go.kokal.co/amz-821cabb9"
+      },
+      {
+        "name": "Instant Pot Duo Plus 9-in-1 Multicooker",
+        "price": "139.99",
+        "rating": "4.6",
+        "asin": "B01NBKTPTS",
+        "date_added": "17 September 2026",
+        "url": "https://go.kokal.co/amz-6dc30564"
+      },
+      {
+        "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+        "price": "104.67",
+        "rating": "4.7",
+        "asin": "B00FLYWNYQ",
+        "date_added": "17 September 2026",
+        "url": "https://go.kokal.co/amz-fa05bdf9"
       }
     ],
     "food-scales": [
@@ -1306,6 +1322,14 @@
       "date": "2026-09-16",
       "product1": "Astercook Knife Set, 13 Pieces",
       "product2": "Cutluxe Kitchen Knife Set, 5-Piece Artisan Series"
+    },
+    {
+      "category": "slow-cookers",
+      "file": "comparison-slow-cookers-2026-09-17.html",
+      "title": "Instant Pot Duo Plus 9-in-1 vs Instant Pot Duo 7-in-1: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-17",
+      "product1": "Instant Pot Duo Plus 9-in-1 Multicooker",
+      "product2": "Instant Pot Duo 7-in-1 Electric Pressure Cooker"
     }
   ],
   "offers": [
