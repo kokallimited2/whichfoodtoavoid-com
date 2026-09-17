@@ -193,6 +193,7 @@ a.card{text-decoration:none;color:inherit}
 </style>
 <link rel="stylesheet" href="/assets/social-share.css">
 <script src="/assets/social-share.js" defer></script>
+  <meta property="og:image" content="https://whichfoodtoavoid.com/assets/img/wf-og-hero.jpg">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -293,6 +294,54 @@ a.card{text-decoration:none;color:inherit}
       </div>
     </div>
   </section>
+<!-- wfvis:hero-art -->
+<section class="wfvis-hero" aria-label="Fresh food illustration">
+  <img src="/assets/img/wf-hero-art.jpg"
+       alt="Fresh vegetables and fruit lit in mint and cyan light on a dark kitchen surface"
+       width="1600" height="1067" loading="lazy" decoding="async">
+</section>
+<style>
+  .wfvis-hero{max-width:1100px;margin:30px auto 6px;padding:0 20px}
+  .wfvis-hero img{display:block;width:100%;height:auto;border-radius:18px;
+    border:1px solid rgba(52,211,153,.28);
+    box-shadow:0 24px 64px -30px rgba(0,0,0,.7), 0 2px 12px -4px #34d39955}
+  @media(max-width:640px){.wfvis-hero img{border-radius:12px}}
+</style>
+<!-- /wfvis:hero-art -->
+<!-- wfvis:storage-chart -->
+<section class="wfvis-storage" aria-labelledby="wfvis-storage-h">
+  <h2 id="wfvis-storage-h">Safe food storage temperatures and times</h2>
+  <p>Food poisoning is usually a storage problem, not a cooking problem. These are the reference
+  values worth keeping on the fridge door.</p>
+  <img src="/assets/img/wf-storage-chart.png" alt="Chart of safe food storage temperatures and times: fridge at 40°F or below, freezer at 0°F, danger zone between 40°F and 140°F, leftovers 3 to 4 days"
+       width="1200" height="700" loading="lazy" decoding="async">
+  <table>
+    <caption>Safe storage reference — USDA FoodSafety.gov</caption>
+    <thead><tr><th scope="col">Item</th><th scope="col">Safe limit</th><th scope="col">Why it matters</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Fridge</th><td>40°F / 4°C or below</td><td>Bacteria multiply fastest between 40°F and 140°F.</td></tr>
+      <tr><th scope="row">Freezer</th><td>0°F / -18°C</td><td>Stops bacterial growth — it does not kill bacteria.</td></tr>
+      <tr><th scope="row">Danger zone</th><td>40°F – 140°F</td><td>Throw away food left out longer than 2 hours.</td></tr>
+      <tr><th scope="row">Cooked leftovers</th><td>3–4 days</td><td>Refrigerate within 2 hours of cooking.</td></tr>
+      <tr><th scope="row">Raw poultry</th><td>1–2 days</td><td>Coolest shelf of the fridge, on the bottom shelf.</td></tr>
+      <tr><th scope="row">Opened deli meat</th><td>3–5 days</td><td>Unopened keeps around 2 weeks.</td></tr>
+    </tbody>
+  </table>
+</section>
+<style>
+  .wfvis-storage{max-width:1100px;margin:46px auto 10px;padding:0 20px;color:#e8fff6;
+    font:16px/1.6 Inter,Segoe UI,Helvetica,Arial,sans-serif}
+  .wfvis-storage h2{font-size:clamp(24px,3.2vw,34px);line-height:1.2;margin:0 0 10px;letter-spacing:-.02em}
+  .wfvis-storage p{max-width:68ch;margin:0 0 20px;opacity:.82}
+  .wfvis-storage img{display:block;width:100%;height:auto;border-radius:18px;
+    border:1px solid rgba(52,211,153,.25);box-shadow:0 24px 64px -32px rgba(0,0,0,.75)}
+  .wfvis-storage table{width:100%;border-collapse:collapse;margin:26px 0 0;font-size:15px}
+  .wfvis-storage caption{text-align:left;font-size:14px;opacity:.65;padding-bottom:10px}
+  .wfvis-storage th,.wfvis-storage td{text-align:left;padding:11px 12px;
+    border-bottom:1px solid rgba(52,211,153,.16)}
+  .wfvis-storage thead th{font-size:13px;text-transform:uppercase;letter-spacing:.06em;opacity:.65}
+</style>
+<!-- /wfvis:storage-chart -->
 <!--FRESH_START-->
 <section class="fresh-finds" aria-label="Fresh finds added today">
 <div class="wrap">
