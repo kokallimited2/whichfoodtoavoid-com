@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 3,
+  "last_index": 4,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -605,6 +605,22 @@
         "asin": "B0GDFFMXFR",
         "date_added": "15 September 2026",
         "url": "https://go.kokal.co/amz-fed1ab19"
+      },
+      {
+        "name": "Etekcity Food Kitchen Scale",
+        "price": "10.99",
+        "rating": "4.6",
+        "asin": "B0113UZJE2",
+        "date_added": "18 September 2026",
+        "url": "https://go.kokal.co/amz-43a42563"
+      },
+      {
+        "name": "Amazon Basics Digital Kitchen Scale",
+        "price": "9.89",
+        "rating": "4.7",
+        "asin": "B06X9NQ8GX",
+        "date_added": "18 September 2026",
+        "url": "https://go.kokal.co/amz-d663bdd2"
       }
     ],
     "meat-thermometers": [
@@ -1330,6 +1346,14 @@
       "date": "2026-09-17",
       "product1": "Instant Pot Duo Plus 9-in-1 Multicooker",
       "product2": "Instant Pot Duo 7-in-1 Electric Pressure Cooker"
+    },
+    {
+      "category": "food-scales",
+      "file": "comparison-food-scales-2026-09-18.html",
+      "title": "Etekcity Food Kitchen Scale vs Amazon Basics Digital Kitchen Scale: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-18",
+      "product1": "Etekcity Food Kitchen Scale",
+      "product2": "Amazon Basics Digital Kitchen Scale"
     }
   ],
   "offers": [
