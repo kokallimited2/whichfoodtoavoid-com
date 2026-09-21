@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 4,
+  "last_index": 5,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -719,6 +719,22 @@
         "asin": "B0DHZTCNR5",
         "date_added": "15 September 2026",
         "url": "https://go.kokal.co/amz-22b01d0c"
+      },
+      {
+        "name": "MEATER Plus Smart Meat Thermometer",
+        "price": "99.95",
+        "rating": "4.5",
+        "asin": "B07H8WTFHW",
+        "date_added": "21 September 2026",
+        "url": "https://go.kokal.co/amz-29690420"
+      },
+      {
+        "name": "Alpha Grillers Instant Read Meat Thermometer",
+        "price": "14.99",
+        "rating": "4.7",
+        "asin": "B00S93EQUK",
+        "date_added": "21 September 2026",
+        "url": "https://go.kokal.co/amz-4f78ae6b"
       }
     ],
     "food-storage": [
@@ -1354,6 +1370,14 @@
       "date": "2026-09-18",
       "product1": "Etekcity Food Kitchen Scale",
       "product2": "Amazon Basics Digital Kitchen Scale"
+    },
+    {
+      "category": "meat-thermometers",
+      "file": "comparison-meat-thermometers-2026-09-21.html",
+      "title": "MEATER Plus vs Alpha Grillers Instant Read: Which Meat Thermometer Should You Buy? (UK 2026)",
+      "date": "2026-09-21",
+      "product1": "MEATER Plus Smart Meat Thermometer",
+      "product2": "Alpha Grillers Instant Read Meat Thermometer"
     }
   ],
   "offers": [
