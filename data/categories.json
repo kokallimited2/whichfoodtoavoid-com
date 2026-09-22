@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 5,
+  "last_index": 6,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -833,6 +833,22 @@
         "asin": "B0DKFK9LTK",
         "date_added": "15 September 2026",
         "url": "https://go.kokal.co/amz-46029e80"
+      },
+      {
+        "name": "Vtopmart 8 Pack Glass Food Storage Containers with Lids",
+        "price": "21.99",
+        "rating": "4.4",
+        "asin": "B0B9S5HZ26",
+        "date_added": "22 September 2026",
+        "url": "https://go.kokal.co/amz-77f4764a"
+      },
+      {
+        "name": "Rubbermaid Brilliance Tritan Plastic Food Storage Containers BPA Free Airtight Lids (Set of 5, 3.2 Cup)",
+        "price": "24.99",
+        "rating": "4.7",
+        "asin": "B079M8FPTW",
+        "date_added": "22 September 2026",
+        "url": "https://go.kokal.co/amz-9c693bf7"
       }
     ],
     "coffee-makers": [
@@ -1378,6 +1394,14 @@
       "date": "2026-09-21",
       "product1": "MEATER Plus Smart Meat Thermometer",
       "product2": "Alpha Grillers Instant Read Meat Thermometer"
+    },
+    {
+      "category": "food-storage",
+      "file": "comparison-food-storage-2026-09-22.html",
+      "title": "Vtopmart 8 Pack Glass Food Storage Containers vs Rubbermaid Brilliance Tritan: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-22",
+      "product1": "Vtopmart 8 Pack Glass Food Storage Containers with Lids",
+      "product2": "Rubbermaid Brilliance Tritan Plastic Food Storage Containers BPA Free Airtight Lids (Set of 5, 3.2 Cup)"
     }
   ],
   "offers": [
