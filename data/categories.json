@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 6,
+  "last_index": 7,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -947,6 +947,22 @@
         "asin": "B0BM3C13B6",
         "date_added": "15 September 2026",
         "url": "https://go.kokal.co/amz-891819fd"
+      },
+      {
+        "name": "Keurig K-Classic Single Serve K-Cup Pod Coffee Maker",
+        "price": "119.99",
+        "rating": "4.4",
+        "asin": "B018UQ5AMS",
+        "date_added": "27 September 2026",
+        "url": "https://go.kokal.co/amz-a9a07ccd"
+      },
+      {
+        "name": "Nespresso Vertuo Pop Pepper Red Coffee Maker",
+        "price": "99.99",
+        "rating": "5.0",
+        "asin": "B0BXBDP84Z",
+        "date_added": "27 September 2026",
+        "url": "https://go.kokal.co/amz-2ccf26fa"
       }
     ],
     "toasters": [
@@ -1402,6 +1418,14 @@
       "date": "2026-09-22",
       "product1": "Vtopmart 8 Pack Glass Food Storage Containers with Lids",
       "product2": "Rubbermaid Brilliance Tritan Plastic Food Storage Containers BPA Free Airtight Lids (Set of 5, 3.2 Cup)"
+    },
+    {
+      "category": "coffee-makers",
+      "file": "comparison-coffee-makers-2026-09-27.html",
+      "title": "Keurig K-Classic vs Nespresso Vertuo Pop: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-27",
+      "product1": "Keurig K-Classic Single Serve K-Cup Pod Coffee Maker",
+      "product2": "Nespresso Vertuo Pop Pepper Red Coffee Maker"
     }
   ],
   "offers": [
