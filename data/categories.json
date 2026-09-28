@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 7,
+  "last_index": 8,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -1045,6 +1045,22 @@
         "asin": "B00V5VEYBE",
         "date_added": "15 September 2026",
         "url": "https://go.kokal.co/amz-a3ffb9a4"
+      },
+      {
+        "name": "Cuisinart CPT-122BK 2-Slice Compact Plastic Toaster",
+        "price": "39.95",
+        "rating": "4.0",
+        "asin": "B00K0ZT1BO",
+        "date_added": "28 September 2026",
+        "url": "https://go.kokal.co/amz-c98a58ab"
+      },
+      {
+        "name": "Elite Gourmet ECT-3100 Long Slot 4 Slice Toaster",
+        "price": "30.79",
+        "rating": "4.9",
+        "asin": "B07HYW76FK",
+        "date_added": "28 September 2026",
+        "url": "https://go.kokal.co/amz-3ad61579"
       }
     ],
     "stand-mixers": [
@@ -1426,6 +1442,14 @@
       "date": "2026-09-27",
       "product1": "Keurig K-Classic Single Serve K-Cup Pod Coffee Maker",
       "product2": "Nespresso Vertuo Pop Pepper Red Coffee Maker"
+    },
+    {
+      "category": "toasters",
+      "file": "comparison-toasters-2026-09-28.html",
+      "title": "Cuisinart CPT-122BK vs Elite Gourmet ECT-3100: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-28",
+      "product1": "Cuisinart CPT-122BK 2-Slice Compact Plastic Toaster",
+      "product2": "Elite Gourmet ECT-3100 Long Slot 4 Slice Toaster"
     }
   ],
   "offers": [
