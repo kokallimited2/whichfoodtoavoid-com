@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 8,
+  "last_index": 9,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -1159,6 +1159,22 @@
         "asin": "B07DKXR6VC",
         "date_added": "15 September 2026",
         "url": "https://go.kokal.co/amz-29bf5cba"
+      },
+      {
+        "name": "KitchenAid Artisan Series 5-Quart Tilt-Head Stand Mixer",
+        "price": "379.99",
+        "rating": "4.8",
+        "asin": "B07QHQ8CD3",
+        "date_added": "29 September 2026",
+        "url": "https://go.kokal.co/amz-1573d247"
+      },
+      {
+        "name": "Cuisinart Precision Master 5.5-Quart Stand Mixer",
+        "price": "249.95",
+        "rating": "4.7",
+        "asin": "B01K2FQ4DE",
+        "date_added": "29 September 2026",
+        "url": "https://go.kokal.co/amz-ee74bdf1"
       }
     ]
   },
@@ -1450,6 +1466,14 @@
       "date": "2026-09-28",
       "product1": "Cuisinart CPT-122BK 2-Slice Compact Plastic Toaster",
       "product2": "Elite Gourmet ECT-3100 Long Slot 4 Slice Toaster"
+    },
+    {
+      "category": "stand-mixers",
+      "file": "comparison-stand-mixers-2026-09-29.html",
+      "title": "KitchenAid Artisan vs Cuisinart Precision Master: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-29",
+      "product1": "KitchenAid Artisan Series 5-Quart Tilt-Head Stand Mixer",
+      "product2": "Cuisinart Precision Master 5.5-Quart Stand Mixer"
     }
   ],
   "offers": [
