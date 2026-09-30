@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 9,
+  "last_index": 0,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -181,6 +181,22 @@
         "asin": "B0DPNJKMPX",
         "date_added": "15 September 2026",
         "url": "https://go.kokal.co/amz-ff4e99ce"
+      },
+      {
+        "name": "Cosori TurboBlaze Air Fryer 6 Qt",
+        "price": "99.99",
+        "rating": "4.8",
+        "asin": "B0C33CHG99",
+        "date_added": "30 September 2026",
+        "url": "https://go.kokal.co/amz-b55b402a"
+      },
+      {
+        "name": "Ninja Air Fryer Pro 5 Qt",
+        "price": "129.99",
+        "rating": "4.7",
+        "asin": "B0CSZ7WBYW",
+        "date_added": "30 September 2026",
+        "url": "https://go.kokal.co/amz-deecacfd"
       }
     ],
     "blenders": [
@@ -1474,6 +1490,14 @@
       "date": "2026-09-29",
       "product1": "KitchenAid Artisan Series 5-Quart Tilt-Head Stand Mixer",
       "product2": "Cuisinart Precision Master 5.5-Quart Stand Mixer"
+    },
+    {
+      "category": "air-fryers",
+      "file": "comparison-air-fryers-2026-09-30.html",
+      "title": "Cosori TurboBlaze 6 Qt vs Ninja Air Fryer Pro 5 Qt: Which Should You Buy? (UK 2026)",
+      "date": "2026-09-30",
+      "product1": "Cosori TurboBlaze Air Fryer 6 Qt",
+      "product2": "Ninja Air Fryer Pro 5 Qt"
     }
   ],
   "offers": [
