@@ -1,5 +1,5 @@
 {
-  "last_index": 5,
+  "last_index": 6,
   "posts": [
     {
       "slug": "hidden-sugar-uk-foods",
@@ -40,6 +40,11 @@
       "slug": "healthy-snack-swaps-uk-office-sofa",
       "title": "Healthy Snack Swaps UK: Office and Sofa Picks That Keep Blood Sugar Steady",
       "date": "28 September 2026"
+    },
+    {
+      "slug": "how-much-protein-per-day-uk",
+      "title": "How Much Protein Do You Need Daily? UK Sources, Servings, and NHS Advice",
+      "date": "30 September 2026"
     }
   ]
 }
