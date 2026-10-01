@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 0,
+  "last_index": 1,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -295,6 +295,22 @@
         "asin": "B0CN3PZX5W",
         "date_added": "15 September 2026",
         "url": "https://go.kokal.co/amz-e7137886"
+      },
+      {
+        "name": "Vitamix Ascent X4 Blender",
+        "price": "699.95",
+        "rating": "4.6",
+        "asin": "B0D9ZVZWKX",
+        "date_added": "01 October 2026",
+        "url": "https://go.kokal.co/amz-9099a66f"
+      },
+      {
+        "name": "Ninja Mega Kitchen System 1500W",
+        "price": "179.99",
+        "rating": "4.5",
+        "asin": "B079ZBGQCG",
+        "date_added": "01 October 2026",
+        "url": "https://go.kokal.co/amz-75b09918"
       }
     ],
     "knife-sets": [
@@ -1498,6 +1514,14 @@
       "date": "2026-09-30",
       "product1": "Cosori TurboBlaze Air Fryer 6 Qt",
       "product2": "Ninja Air Fryer Pro 5 Qt"
+    },
+    {
+      "category": "blenders",
+      "file": "comparison-blenders-2026-10-01.html",
+      "title": "Vitamix Ascent X4 vs Ninja Mega Kitchen System 1500W: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-01",
+      "product1": "Vitamix Ascent X4 Blender",
+      "product2": "Ninja Mega Kitchen System 1500W"
     }
   ],
   "offers": [
