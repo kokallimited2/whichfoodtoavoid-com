@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 1,
+  "last_index": 5,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -767,6 +767,14 @@
         "asin": "B00S93EQUK",
         "date_added": "21 September 2026",
         "url": "https://go.kokal.co/amz-4f78ae6b"
+      },
+      {
+        "name": "ThermoWorks ThermoPop 2",
+        "price": "39.00",
+        "rating": "4.6",
+        "asin": "B0DC8KQC81",
+        "date_added": "05 October 2026",
+        "url": "https://go.kokal.co/amz-f6c9835a"
       }
     ],
     "food-storage": [
@@ -1522,6 +1530,14 @@
       "date": "2026-10-01",
       "product1": "Vitamix Ascent X4 Blender",
       "product2": "Ninja Mega Kitchen System 1500W"
+    },
+    {
+      "category": "meat-thermometers",
+      "file": "comparison-meat-thermometers-2026-10-05.html",
+      "title": "Alpha Grillers vs ThermoWorks ThermoPop 2: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-05",
+      "product1": "Alpha Grillers Instant Read Meat Thermometer",
+      "product2": "ThermoWorks ThermoPop 2"
     }
   ],
   "offers": [
