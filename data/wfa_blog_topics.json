@@ -1,5 +1,5 @@
 {
-  "last_index": 7,
+  "last_index": 8,
   "posts": [
     {
       "slug": "hidden-sugar-uk-foods",
@@ -45,6 +45,11 @@
       "slug": "how-much-protein-per-day-uk",
       "title": "How Much Protein Do You Need Daily? UK Sources, Servings, and NHS Advice",
       "date": "30 September 2026"
+    },
+    {
+      "slug": "healthy-drinks-uk",
+      "title": "Healthy Drinks UK: What to Sip, Swap, and Avoid Every Day",
+      "date": "05 October 2026"
     }
   ]
 }
