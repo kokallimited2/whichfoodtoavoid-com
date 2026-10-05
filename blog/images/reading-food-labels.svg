@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-label="How to Read a Food Label in 20 Seconds, Which Food To Avoid infographic">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-label="How to Read a Food Label in 20 Seconds — Which Food To Avoid infographic">
 <defs><linearGradient id="hg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0.72"/></linearGradient></defs>
 <rect width="800" height="300" fill="#0d1117"/>
 <rect width="800" height="130" fill="url(#hg)"/>
@@ -8,7 +8,7 @@
 <text x="124" y="84" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="300" letter-spacing="8" fill="rgba(255,255,255,0.85)">LAB</text>
 <text x="760" y="44" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="rgba(255,255,255,0.9)" text-anchor="end">whichfoodtoavoid.com</text>
 <line x1="760" y1="56" x2="760" y2="62" stroke="rgba(255,255,255,0.5)" stroke-width="2"/>
-<text x="122" y="112" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="rgba(255,255,255,0.92)">How to Read a Food Label in 20 Seconds, Which Food To Avoid</text>
+<text x="122" y="112" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="rgba(255,255,255,0.92)">How to Read a Food Label in 20 Seconds — Which Food To Avoid</text>
 <rect x="40" y="140" width="720" height="86" rx="12" fill="#1e293b" stroke="rgba(255,255,255,0.10)"/>
 <circle cx="84" cy="183" r="24" fill="#3b82f6"/>
 <text x="84" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
