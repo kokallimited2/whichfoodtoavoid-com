@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 5,
+  "last_index": 6,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -889,6 +889,22 @@
         "asin": "B079M8FPTW",
         "date_added": "22 September 2026",
         "url": "https://go.kokal.co/amz-9c693bf7"
+      },
+      {
+        "name": "Vtopmart 8 Pack Glass Food Storage Containers with Airtight Lids",
+        "price": "21.99",
+        "rating": "4.4",
+        "asin": "B0B9S5HZ26",
+        "date_added": "06 October 2026",
+        "url": "https://go.kokal.co/amz-77f4764a"
+      },
+      {
+        "name": "Rubbermaid Brilliance Tritan Plastic Food Storage Containers",
+        "price": "24.99",
+        "rating": "4.7",
+        "asin": "B079M8FPTW",
+        "date_added": "06 October 2026",
+        "url": "https://go.kokal.co/amz-9c693bf7"
       }
     ],
     "coffee-makers": [
@@ -1538,9 +1554,26 @@
       "date": "2026-10-05",
       "product1": "Alpha Grillers Instant Read Meat Thermometer",
       "product2": "ThermoWorks ThermoPop 2"
+    },
+    {
+      "category": "food-storage",
+      "file": "comparison-food-storage-2026-10-06.html",
+      "title": "Vtopmart 8 Pack Glass vs Rubbermaid Brilliance: Which Food Storage Containers Should You Buy? (UK 2026)",
+      "date": "2026-10-06",
+      "product1": "Vtopmart 8 Pack Glass Food Storage Containers with Airtight Lids",
+      "product2": "Rubbermaid Brilliance Tritan Plastic Food Storage Containers"
     }
   ],
   "offers": [
+    {
+      "file": "eating-love-membership-offer-review.html",
+      "title": "Eating Love Membership Offer Review (UK 2026): Honest Look, Pricing & Who It's For",
+      "category": "Healthy Eating",
+      "date": "2026-10-06",
+      "platform": "clickbank",
+      "vendor": "EATINGLOVE",
+      "link": "https://hop.clickbank.net/?affiliate=tanoli007&vendor=EATINGLOVE&tid=eating-love-membership-o"
+    },
     {
       "file": "anabolic-cooking-muscle-building-cookbook-review.html",
       "title": "Anabolic Cooking - Muscle Building Cookbook Review (UK 2026): Honest Look, Pricing & Who It's For",
