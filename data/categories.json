@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 6,
+  "last_index": 7,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -1019,6 +1019,14 @@
         "asin": "B0BXBDP84Z",
         "date_added": "27 September 2026",
         "url": "https://go.kokal.co/amz-2ccf26fa"
+      },
+      {
+        "name": "Keurig K-Elite Single Serve K-Cup Pod Coffee Maker",
+        "price": "149.99",
+        "rating": "4.6",
+        "asin": "B07N3GRVGS",
+        "date_added": "07 October 2026",
+        "url": "https://go.kokal.co/amz-85611ce2"
       }
     ],
     "toasters": [
@@ -1562,6 +1570,14 @@
       "date": "2026-10-06",
       "product1": "Vtopmart 8 Pack Glass Food Storage Containers with Airtight Lids",
       "product2": "Rubbermaid Brilliance Tritan Plastic Food Storage Containers"
+    },
+    {
+      "category": "coffee-makers",
+      "file": "comparison-coffee-makers-2026-10-07.html",
+      "title": "Keurig K-Classic vs K-Elite: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-07",
+      "product1": "Keurig K-Classic Single Serve K-Cup Pod Coffee Maker",
+      "product2": "Keurig K-Elite Single Serve K-Cup Pod Coffee Maker"
     }
   ],
   "offers": [
