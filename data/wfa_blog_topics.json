@@ -1,5 +1,5 @@
 {
-  "last_index": 8,
+  "last_index": 9,
   "posts": [
     {
       "slug": "hidden-sugar-uk-foods",
@@ -50,6 +50,11 @@
       "slug": "healthy-drinks-uk",
       "title": "Healthy Drinks UK: What to Sip, Swap, and Avoid Every Day",
       "date": "05 October 2026"
+    },
+    {
+      "slug": "healthy-meal-prep-uk-batch-cooking-ideas",
+      "title": "Healthy Meal Prep UK: Simple Batch Cooking Ideas for Busy Weekdays",
+      "date": "12 October 2026"
     }
   ]
 }
