@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 1,
+  "last_index": 2,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -457,6 +457,22 @@
         "asin": "B0CB6L31LZ",
         "date_added": "16 September 2026",
         "url": "https://go.kokal.co/amz-4b1edd67"
+      },
+      {
+        "name": "Astercook 15-Piece German Steel Kitchen Knife Set with Built-in Sharpener",
+        "price": "40.00",
+        "rating": "4.8",
+        "asin": "B0GTV7FZJT",
+        "date_added": "13 October 2026",
+        "url": "https://go.kokal.co/amz-cf1d321c"
+      },
+      {
+        "name": "AmazonBasics Color-Coded Dishwasher Safe Kitchen Knife Set, 12-Piece",
+        "price": "21.02",
+        "rating": "4.7",
+        "asin": "B01B3GARVG",
+        "date_added": "13 October 2026",
+        "url": "https://go.kokal.co/amz-85f66db8"
       }
     ],
     "slow-cookers": [
@@ -1674,6 +1690,14 @@
       "date": "2026-10-12",
       "product1": "Ninja Professional Plus Blender",
       "product2": "Ninja Professional Blender"
+    },
+    {
+      "category": "knife-sets",
+      "file": "comparison-knife-sets-2026-10-13.html",
+      "title": "Astercook 15-Piece German Steel Knife Set vs AmazonBasics 12-Piece Colour-Coded Set: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-13",
+      "product1": "Astercook 15-Piece German Steel Kitchen Knife Set with Built-in Sharpener",
+      "product2": "AmazonBasics Color-Coded Dishwasher Safe Kitchen Knife Set, 12-Piece"
     }
   ],
   "offers": [
