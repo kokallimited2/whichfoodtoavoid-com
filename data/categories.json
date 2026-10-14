@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 2,
+  "last_index": 3,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -587,6 +587,22 @@
         "asin": "B00FLYWNYQ",
         "date_added": "17 September 2026",
         "url": "https://go.kokal.co/amz-fa05bdf9"
+      },
+      {
+        "name": "Bella SAVOR 6-Quart Programmable Slow Cooker",
+        "price": "39.99",
+        "rating": "4.5",
+        "asin": "B0CYJ7Z2Z1",
+        "date_added": "14 October 2026",
+        "url": "https://go.kokal.co/amz-6ca4aeac"
+      },
+      {
+        "name": "Instant Pot Ultra 10-in-1 Electric Pressure Cooker, 6 Quart",
+        "price": "139.99",
+        "rating": "4.6",
+        "asin": "B06Y1MP2PY",
+        "date_added": "14 October 2026",
+        "url": "https://go.kokal.co/amz-8b556341"
       }
     ],
     "food-scales": [
@@ -1698,6 +1714,14 @@
       "date": "2026-10-13",
       "product1": "Astercook 15-Piece German Steel Kitchen Knife Set with Built-in Sharpener",
       "product2": "AmazonBasics Color-Coded Dishwasher Safe Kitchen Knife Set, 12-Piece"
+    },
+    {
+      "category": "slow-cookers",
+      "file": "comparison-slow-cookers-2026-10-14.html",
+      "title": "Bella SAVOR 6-Quart vs Instant Pot Ultra 10-in-1: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-14",
+      "product1": "Bella SAVOR 6-Quart Programmable Slow Cooker",
+      "product2": "Instant Pot Ultra 10-in-1 Electric Pressure Cooker, 6 Quart"
     }
   ],
   "offers": [
