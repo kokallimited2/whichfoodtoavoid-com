@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 3,
+  "last_index": 4,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -716,6 +716,22 @@
         "rating": "4.7",
         "asin": "B06X9NQ8GX",
         "date_added": "18 September 2026",
+        "url": "https://go.kokal.co/amz-d663bdd2"
+      },
+      {
+        "name": "Etekcity Food Kitchen Scale, Digital Grams and Ounces, 11lb",
+        "price": "13.99",
+        "rating": "4.6",
+        "asin": "B0113UZJE2",
+        "date_added": "15 October 2026",
+        "url": "https://go.kokal.co/amz-43a42563"
+      },
+      {
+        "name": "Amazon Basics Digital Kitchen Scale with LCD Display",
+        "price": "9.89",
+        "rating": "4.6",
+        "asin": "B06X9NQ8GX",
+        "date_added": "15 October 2026",
         "url": "https://go.kokal.co/amz-d663bdd2"
       }
     ],
@@ -1722,6 +1738,14 @@
       "date": "2026-10-14",
       "product1": "Bella SAVOR 6-Quart Programmable Slow Cooker",
       "product2": "Instant Pot Ultra 10-in-1 Electric Pressure Cooker, 6 Quart"
+    },
+    {
+      "category": "food-scales",
+      "file": "comparison-food-scales-2026-10-15.html",
+      "title": "Etekcity Food Kitchen Scale vs Amazon Basics Digital Kitchen Scale: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-15",
+      "product1": "Etekcity Food Kitchen Scale, Digital Grams and Ounces, 11lb",
+      "product2": "Amazon Basics Digital Kitchen Scale with LCD Display"
     }
   ],
   "offers": [
