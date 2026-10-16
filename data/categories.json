@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 4,
+  "last_index": 5,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -855,6 +855,22 @@
         "asin": "B0DC8KQC81",
         "date_added": "05 October 2026",
         "url": "https://go.kokal.co/amz-f6c9835a"
+      },
+      {
+        "name": "ThermoPro TP03B Digital Meat Thermometer",
+        "price": "7.98",
+        "rating": "4.4",
+        "asin": "B01IHHLB3W",
+        "date_added": "16 October 2026",
+        "url": "https://go.kokal.co/amz-0847a530"
+      },
+      {
+        "name": "ThermoPro TP19H Digital Instant Read Meat Thermometer",
+        "price": "14.99",
+        "rating": "4.5",
+        "asin": "B07XXSYLL8",
+        "date_added": "16 October 2026",
+        "url": "https://go.kokal.co/amz-4c5bd437"
       }
     ],
     "food-storage": [
@@ -1746,6 +1762,14 @@
       "date": "2026-10-15",
       "product1": "Etekcity Food Kitchen Scale, Digital Grams and Ounces, 11lb",
       "product2": "Amazon Basics Digital Kitchen Scale with LCD Display"
+    },
+    {
+      "category": "meat-thermometers",
+      "file": "comparison-meat-thermometers-2026-10-16.html",
+      "title": "ThermoPro TP03B vs TP19H: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-16",
+      "product1": "ThermoPro TP03B Digital Meat Thermometer",
+      "product2": "ThermoPro TP19H Digital Instant Read Meat Thermometer"
     }
   ],
   "offers": [
