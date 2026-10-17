@@ -32,4 +32,26 @@
 </div><!-- zaha-legal:consent-banner --><script src="/cookie-consent.js" defer></script>
 
 <div style="text-align:center;padding:18px 12px;font:13px/1.6 -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial,sans-serif;opacity:.75"><a href="/privacy.html" style="color:inherit;text-decoration:underline">Privacy</a> · <a href="/terms.html" style="color:inherit;text-decoration:underline">Terms</a> · <a href="/cookie-policy.html" style="color:inherit;text-decoration:underline">Cookies</a> · <a href="/affiliate-disclosure.html" style="color:inherit;text-decoration:underline">Affiliate disclosure</a></div>
+<script data-hermes-track="1">
+(function(){
+  try{
+    var S=location.hostname.replace(/^www[.]/,'');
+    var U='https://go.kokal.co/e';
+    function send(e){
+      try{
+        var p=JSON.stringify({e:e,s:S});
+        if(navigator.sendBeacon){navigator.sendBeacon(U,new Blob([p],{type:'text/plain'}));}
+        else{fetch(U,{method:'POST',keepalive:true,headers:{'Content-Type':'text/plain'},body:p});}
+      }catch(x){}
+    }
+    send('pv');
+    document.addEventListener('click',function(ev){
+      var a=ev.target&&ev.target.closest?ev.target.closest('a[href]'):null;
+      if(!a)return;
+      var h=a.href||'';
+      if(h.indexOf('amazon.')>-1||h.indexOf('go.kokal.co/amz-')>-1)send('az');
+    },true);
+  }catch(x){}
+})();
+</script>
 </body></html>
