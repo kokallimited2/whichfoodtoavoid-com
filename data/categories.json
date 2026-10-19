@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 5,
+  "last_index": 7,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -1001,6 +1001,22 @@
         "asin": "B079M8FPTW",
         "date_added": "06 October 2026",
         "url": "https://go.kokal.co/amz-9c693bf7"
+      },
+      {
+        "name": "Rubbermaid 60-Piece Food Storage Set",
+        "price": "39.99",
+        "rating": "4.7",
+        "asin": "B07PTWH38V",
+        "date_added": "17 October 2026",
+        "url": "https://go.kokal.co/amz-2e14be12"
+      },
+      {
+        "name": "M Mcirco Glass Meal Prep Containers",
+        "price": "29.98",
+        "rating": "4.7",
+        "asin": "B07CMRFZ9S",
+        "date_added": "17 October 2026",
+        "url": "https://go.kokal.co/amz-b489cbb7"
       }
     ],
     "coffee-makers": [
@@ -1123,6 +1139,22 @@
         "asin": "B07N3GRVGS",
         "date_added": "07 October 2026",
         "url": "https://go.kokal.co/amz-85611ce2"
+      },
+      {
+        "name": "Bunn HB Heat N Brew Programmable Coffee Maker",
+        "price": "175.00",
+        "rating": "4.2",
+        "asin": "B01N05O5GW",
+        "date_added": "18 October 2026",
+        "url": "https://go.kokal.co/amz-0bf07018"
+      },
+      {
+        "name": "Technivorm Moccamaster 53954 KBG 10-Cup Coffee Maker",
+        "price": "330.00",
+        "rating": "4.6",
+        "asin": "B07SH34ZDT",
+        "date_added": "18 October 2026",
+        "url": "https://go.kokal.co/amz-b7c2d605"
       }
     ],
     "toasters": [
@@ -1770,6 +1802,22 @@
       "date": "2026-10-16",
       "product1": "ThermoPro TP03B Digital Meat Thermometer",
       "product2": "ThermoPro TP19H Digital Instant Read Meat Thermometer"
+    },
+    {
+      "category": "food-storage",
+      "file": "comparison-food-storage-2026-10-17.html",
+      "title": "Rubbermaid 60-Piece Food Storage Set vs M Mcirco Glass Meal Prep Containers: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-17",
+      "product1": "Rubbermaid 60-Piece Food Storage Set",
+      "product2": "M Mcirco Glass Meal Prep Containers"
+    },
+    {
+      "category": "coffee-makers",
+      "file": "comparison-coffee-makers-2026-10-18.html",
+      "title": "Bunn HB Heat N Brew vs Technivorm Moccamaster KBG: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-18",
+      "product1": "Bunn HB Heat N Brew Programmable Coffee Maker",
+      "product2": "Technivorm Moccamaster 53954 KBG 10-Cup Coffee Maker"
     }
   ],
   "offers": [
