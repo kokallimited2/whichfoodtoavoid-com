@@ -1,5 +1,5 @@
 {
-  "last_index": 0,
+  "last_index": 1,
   "posts": [
     {
       "slug": "hidden-sugar-uk-foods",
@@ -60,6 +60,11 @@
       "slug": "hidden-sugar-everyday-foods",
       "title": "Hidden Sugar in Everyday American Foods: 60+ Names It Hides Behind on US Nutrition Labels",
       "date": "14 October 2026"
+    },
+    {
+      "slug": "ultra-processed-foods-list-what-they-are-and-easy-swaps",
+      "title": "Ultra-Processed Foods List: What They Are, Why They Matter, and 5 Easy Swaps",
+      "date": "19 October 2026"
     }
   ]
 }
