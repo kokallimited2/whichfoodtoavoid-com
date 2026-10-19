@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 7,
+  "last_index": 8,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -1269,6 +1269,22 @@
         "asin": "B072P11H8L",
         "date_added": "09 October 2026",
         "url": "https://go.kokal.co/amz-9ce6e524"
+      },
+      {
+        "name": "Breville Die-Cast Smart Toaster BTA820XL",
+        "price": "149.99",
+        "rating": "4.4",
+        "asin": "B00140SC64",
+        "date_added": "19 October 2026",
+        "url": "https://go.kokal.co/amz-549b9feb"
+      },
+      {
+        "name": "Cuisinart 2-Slice Compact Plastic Toaster CPT-122",
+        "price": "29.99",
+        "rating": "3.9",
+        "asin": "B009GQ034C",
+        "date_added": "19 October 2026",
+        "url": "https://go.kokal.co/amz-62c52248"
       }
     ],
     "stand-mixers": [
@@ -1818,6 +1834,14 @@
       "date": "2026-10-18",
       "product1": "Bunn HB Heat N Brew Programmable Coffee Maker",
       "product2": "Technivorm Moccamaster 53954 KBG 10-Cup Coffee Maker"
+    },
+    {
+      "category": "toasters",
+      "file": "comparison-toasters-2026-10-19.html",
+      "title": "Breville Die-Cast Smart Toaster BTA820XL vs Cuisinart CPT-122: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-19",
+      "product1": "Breville Die-Cast Smart Toaster BTA820XL",
+      "product2": "Cuisinart 2-Slice Compact Plastic Toaster CPT-122"
     }
   ],
   "offers": [
