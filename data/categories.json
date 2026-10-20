@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 8,
+  "last_index": 9,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -1407,6 +1407,22 @@
         "asin": "B00004SGFW",
         "date_added": "10 October 2026",
         "url": "https://go.kokal.co/amz-95d0da4f"
+      },
+      {
+        "name": "KitchenAid Artisan Series 5 Quart Tilt Head Stand Mixer with Pouring Shield",
+        "price": "379.95",
+        "rating": "4.7",
+        "asin": "B0769ZQWH7",
+        "date_added": "20 October 2026",
+        "url": "https://go.kokal.co/amz-ed97eb2f"
+      },
+      {
+        "name": "Hamilton Beach Electric Stand Mixer, 4 Quarts",
+        "price": "151.95",
+        "rating": "4.5",
+        "asin": "B0758BQPY8",
+        "date_added": "20 October 2026",
+        "url": "https://go.kokal.co/amz-98befb0c"
       }
     ]
   },
@@ -1842,6 +1858,14 @@
       "date": "2026-10-19",
       "product1": "Breville Die-Cast Smart Toaster BTA820XL",
       "product2": "Cuisinart 2-Slice Compact Plastic Toaster CPT-122"
+    },
+    {
+      "category": "stand-mixers",
+      "file": "comparison-stand-mixers-2026-10-20.html",
+      "title": "KitchenAid Artisan 5 Quart vs Hamilton Beach 4 Quart: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-20",
+      "product1": "KitchenAid Artisan Series 5 Quart Tilt Head Stand Mixer with Pouring Shield",
+      "product2": "Hamilton Beach Electric Stand Mixer, 4 Quarts"
     }
   ],
   "offers": [
