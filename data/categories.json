@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 9,
+  "last_index": 0,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -213,6 +213,22 @@
         "asin": "B09B7SB46R",
         "date_added": "11 October 2026",
         "url": "https://go.kokal.co/amz-9e45e92f"
+      },
+      {
+        "name": "COSORI TurboBlaze 9-in-1 Air Fryer 6 Qt",
+        "price": "109.99",
+        "rating": "4.8",
+        "asin": "B0DY1C8J81",
+        "date_added": "21 October 2026",
+        "url": "https://go.kokal.co/amz-b4e56cdb"
+      },
+      {
+        "name": "Ninja Air Fryer Pro XL 6-in-1 with 6.5 QT Capacity",
+        "price": "109.99",
+        "rating": "4.8",
+        "asin": "B0CS3V8M9H",
+        "date_added": "21 October 2026",
+        "url": "https://go.kokal.co/amz-51a65b96"
       }
     ],
     "blenders": [
@@ -1866,6 +1882,14 @@
       "date": "2026-10-20",
       "product1": "KitchenAid Artisan Series 5 Quart Tilt Head Stand Mixer with Pouring Shield",
       "product2": "Hamilton Beach Electric Stand Mixer, 4 Quarts"
+    },
+    {
+      "category": "air-fryers",
+      "file": "comparison-air-fryers-2026-10-21.html",
+      "title": "COSORI TurboBlaze 9-in-1 vs Ninja Air Fryer Pro XL 6-in-1: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-21",
+      "product1": "COSORI TurboBlaze 9-in-1 Air Fryer 6 Qt",
+      "product2": "Ninja Air Fryer Pro XL 6-in-1 with 6.5 QT Capacity"
     }
   ],
   "offers": [
