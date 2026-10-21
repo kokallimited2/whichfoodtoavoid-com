@@ -1,5 +1,5 @@
 {
-  "last_index": 1,
+  "last_index": 2,
   "posts": [
     {
       "slug": "hidden-sugar-uk-foods",
@@ -65,6 +65,11 @@
       "slug": "ultra-processed-foods-list-what-they-are-and-easy-swaps",
       "title": "Ultra-Processed Foods List: What They Are, Why They Matter, and 5 Easy Swaps",
       "date": "19 October 2026"
+    },
+    {
+      "slug": "good-fats-vs-bad-fats",
+      "title": "Good Fats vs Bad Fats: Which Ones to Eat and Which to Limit",
+      "date": "21 October 2026"
     }
   ]
 }
