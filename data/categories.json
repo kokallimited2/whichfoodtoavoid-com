@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 0,
+  "last_index": 1,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -359,6 +359,22 @@
         "asin": "B01L6UJRC4",
         "date_added": "12 October 2026",
         "url": "https://go.kokal.co/amz-f775facc"
+      },
+      {
+        "name": "Ninja Fit Compact Personal Blender QB3001SS",
+        "price": "59.00",
+        "rating": "4.6",
+        "asin": "B01FHOWYA2",
+        "date_added": "22 October 2026",
+        "url": "https://go.kokal.co/amz-7ed213ff"
+      },
+      {
+        "name": "NutriBullet Personal Blender NBR-0601WM",
+        "price": "49.99",
+        "rating": "4.6",
+        "asin": "B07CTBHQZK",
+        "date_added": "22 October 2026",
+        "url": "https://go.kokal.co/amz-b8ed9b90"
       }
     ],
     "knife-sets": [
@@ -1890,6 +1906,14 @@
       "date": "2026-10-21",
       "product1": "COSORI TurboBlaze 9-in-1 Air Fryer 6 Qt",
       "product2": "Ninja Air Fryer Pro XL 6-in-1 with 6.5 QT Capacity"
+    },
+    {
+      "category": "blenders",
+      "file": "comparison-blenders-2026-10-22.html",
+      "title": "Ninja Fit QB3001SS vs NutriBullet NBR-0601: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-22",
+      "product1": "Ninja Fit Compact Personal Blender QB3001SS",
+      "product2": "NutriBullet Personal Blender NBR-0601WM"
     }
   ],
   "offers": [
