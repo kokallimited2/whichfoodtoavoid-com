@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 1,
+  "last_index": 2,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -505,6 +505,22 @@
         "asin": "B01B3GARVG",
         "date_added": "13 October 2026",
         "url": "https://go.kokal.co/amz-85f66db8"
+      },
+      {
+        "name": "Astercook Knife Set for Kitchen with Block and Sharpener 15pcs German",
+        "price": "39.88",
+        "rating": "4.8",
+        "asin": "B0C1YBPJ43",
+        "date_added": "23 October 2026",
+        "url": "https://go.kokal.co/amz-3a56a5ab"
+      },
+      {
+        "name": "Astercook Knife Set, 6-Piece Kitchen Knife Set with Block",
+        "price": "19.99",
+        "rating": "4.7",
+        "asin": "B0G8HTRKQG",
+        "date_added": "23 October 2026",
+        "url": "https://go.kokal.co/amz-75958e5c"
       }
     ],
     "slow-cookers": [
@@ -1914,6 +1930,14 @@
       "date": "2026-10-22",
       "product1": "Ninja Fit Compact Personal Blender QB3001SS",
       "product2": "NutriBullet Personal Blender NBR-0601WM"
+    },
+    {
+      "category": "knife-sets",
+      "file": "comparison-knife-sets-2026-10-23.html",
+      "title": "Astercook 15-Piece vs 6-Piece Knife Set: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-23",
+      "product1": "Astercook Knife Set for Kitchen with Block and Sharpener 15pcs German",
+      "product2": "Astercook Knife Set, 6-Piece Kitchen Knife Set with Block"
     }
   ],
   "offers": [
