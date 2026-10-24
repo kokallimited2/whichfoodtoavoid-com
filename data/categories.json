@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 2,
+  "last_index": 3,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -651,6 +651,22 @@
         "asin": "B06Y1MP2PY",
         "date_added": "14 October 2026",
         "url": "https://go.kokal.co/amz-8b556341"
+      },
+      {
+        "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker 6 Quart",
+        "price": "89.99",
+        "rating": "4.7",
+        "asin": "B08F31PJ16",
+        "date_added": "24 October 2026",
+        "url": "https://go.kokal.co/amz-5c8c5a68"
+      },
+      {
+        "name": "COSORI Electric Pressure Cooker 6 Quart 9-in-1",
+        "price": "80.94",
+        "rating": "4.8",
+        "asin": "B0BFX95J5P",
+        "date_added": "24 October 2026",
+        "url": "https://go.kokal.co/amz-4e626ba6"
       }
     ],
     "food-scales": [
@@ -1938,6 +1954,14 @@
       "date": "2026-10-23",
       "product1": "Astercook Knife Set for Kitchen with Block and Sharpener 15pcs German",
       "product2": "Astercook Knife Set, 6-Piece Kitchen Knife Set with Block"
+    },
+    {
+      "category": "slow-cookers",
+      "file": "comparison-slow-cookers-2026-10-24.html",
+      "title": "Instant Pot Duo 7-in-1 vs COSORI 9-in-1: Which Pressure Cooker Should You Buy? (UK 2026)",
+      "date": "2026-10-24",
+      "product1": "Instant Pot Duo 7-in-1 Electric Pressure Cooker 6 Quart",
+      "product2": "COSORI Electric Pressure Cooker 6 Quart 9-in-1"
     }
   ],
   "offers": [
