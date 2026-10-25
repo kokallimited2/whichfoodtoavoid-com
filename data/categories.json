@@ -11,7 +11,7 @@
     "toasters",
     "stand-mixers"
   ],
-  "last_index": 3,
+  "last_index": 4,
   "categories": {
     "air-fryers": {
       "name": "Air Fryers",
@@ -1962,6 +1962,14 @@
       "date": "2026-10-24",
       "product1": "Instant Pot Duo 7-in-1 Electric Pressure Cooker 6 Quart",
       "product2": "COSORI Electric Pressure Cooker 6 Quart 9-in-1"
+    },
+    {
+      "category": "food-scales",
+      "file": "comparison-food-scales-2026-10-25.html",
+      "title": "Etekcity Food Kitchen Scale vs Amazon Basics Digital Kitchen Scale: Which Should You Buy? (UK 2026)",
+      "date": "2026-10-25",
+      "product1": "Etekcity Food Kitchen Scale",
+      "product2": "Amazon Basics Digital Kitchen Scale"
     }
   ],
   "offers": [
